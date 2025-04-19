@@ -1,0 +1,18 @@
+{
+  "Title": "No More Rain World",
+  "Description": "Also known as World or Not So Rain World.\r\nRemoves the Rain and replaces it with a night that holds a very distinct ecosystem. Dawn adds the functionality of a full day night cycle!\r\nHas Support for Vanilla, MSC and watcher regions! (although bugs will most likely be present outside of vanilla regions)\r\nPLACE THIS MOD ABOVE EVERYTHING ELSE IN YOUR REMIX LOAD ORDER!\r\n\r\nContains Night threats (Made by Qwertz) for all the vanilla regions! MSC and extra regions will come in the future.\r\n\r\nAlso contains support for a handful of mods! (REGION MODS HAVE THE SAME SPAWNS AT NIGHT!)\r\n\r\nWhen playing with other mods NMRW needs to be at the TOP of the load order! I cannot guarantee compatibility for mods outside of the list below. LOAD ORDER CHANGES WILL TAKE LONGER TO GO THROUGH WITH NMRW! Its a HUGE amount of files to merge!\r\n\r\nShould be Compatible with Rain Meadow!\r\n\r\n--------------------- start of ONH \r\n\r\n[Spoiler]AY - Abyss[/Spoiler]\r\n\r\n[Spoiler]CA - Railway[/Spoiler]\r\n\r\n[Spoiler]CF - Central Factory[/Spoiler]\r\n\r\n[Spoiler]DI - Industrial District[/Spoiler]\r\n\r\n[Spoiler]MA - Swamplands[/Spoiler]\r\n\r\n[Spoiler]ME - Subway Line[/Spoiler]\r\n\r\n[Spoiler]OS - Oil station[/Spoiler]\r\n\r\n[Spoiler]SW - Swamplands (Purple)[/Spoiler]\r\n\r\n[Spoiler]VI - Suburbs[/Spoiler]\r\n\r\n--------------------- Start of separate region mods\r\n\r\n[Spoiler]RW - Side House[/Spoiler]\r\n\r\n[Spoiler]HC - Howling Rift[/Spoiler]\r\n\r\n[Spoiler]GH - Hanging Gardens[/Spoiler]\r\n\r\n[Spoiler]BL - Badlands[/Spoiler]\r\n\r\n[Spoiler]RF - Coral Caves[/Spoiler]\r\n\r\n[Spoiler]AK - Curious Ascent[/Spoiler]\r\n\r\n[Spoiler]DW - Deserted Wasteland[/Spoiler]\r\n\r\n[Spoiler]LW - Lush Mire[/Spoiler]\r\n\r\n[Spoiler]HW - Moonlit Acres[/Spoiler]\r\n\r\n[Spoiler]PA - Pilgrims Ascent[/Spoiler]\r\n\r\n[Spoiler]SK - Stormy Coast[/Spoiler]\r\n\r\n[Spoiler]TM - The Mast[/Spoiler]\r\n\r\n[Spoiler]US - Undersea[/Spoiler]\r\n\r\n[Spoiler]BY - Purification Conduits[/Spoiler]\r\n\r\n[Spoiler]Connected Watcher regions[/Spoiler]\r\n\r\nSunlit Trail Mods -------------------------------------------------------------------------\r\n\r\n[Spoiler]FR - Far Shore[/Spoiler]\r\n\r\n[Spoiler]MF - Moss Fields[/Spoiler]\r\n\r\n[Spoiler]CW - Chasing Wind[/Spoiler]\r\n\r\nExpanded Mods -----------------------------------------------------------------------------\r\n\r\n[Spoiler]Expanded Industrial[/Spoiler]\r\n\r\n[Spoiler]Expanded Outskirts[/Spoiler]\r\n\r\n[Spoiler]Expanded Drainage[/Spoiler]\r\n\r\nSpecial thanks to Bro for help optimizing the mod with code, Axoletrw for their incredible playtesting and Qwertz for their amazing music!!\r\n\r\nSpawns may be slightly unbalanced! Feel free to suggest tweaks :\u003E",
+  "ID": "TrynsNMRW",
+  "Version": "1.0.1",
+  "TargetGameVersion": "v1.10.2",
+  "Requirements": "crs,regionkit,dawn",
+  "RequirementNames": "Custom Region Support,Regionkit,Dawn",
+  "Authors": "Tryn",
+  "Visibility": "Public",
+  "Tags": [
+    "Regions",
+    "Game Mechanics"
+  ],
+  "WorkshopID": 3295491887,
+  "UploadFilesOnly": false,
+  "UploadThumbnail": false
+}

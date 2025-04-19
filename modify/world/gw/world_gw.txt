@@ -1,0 +1,208 @@
+[MERGE]
+CREATURES
+//all
+GW_B01 : 5-Leech-10-{Ignorecycle}, 3-Leech-5-{Ignorecycle}, 9-Garbage Worm-2-{Ignorecycle}, 5-TentaclePlant-{Night}
+GW_C01 : 10-Garbage Worm-4, 3-Leech-7-{Ignorecycle}, 5-Leech-7-{Ignorecycle}, 5-TentaclePlant-{Night}
+GW_B04 : 3-Leech-7-{Ignorecycle}, 4-Leech-7-{Ignorecycle}, 4-TentaclePlant-{Night}
+GW_D01 : 7-Leech-8, 18-Garbage Worm-5, 5-LanternMouse-2-{Night}
+//GW_D01 : 6-Leech-7-{Ignorecycle} //taking this out because it spawned leeches in an upwards-facing land den where they just stayed and died. For Red, I'm moving these leeches to the water
+GW_C02 : 13-Garbage Worm-4, 3-Red-{Night}
+GW_E02 : 7-Pink, 5-Green, 8-Mimic-{14}, 3-CicadaB-2, 4-CicadaB-1, 19-Garbage Worm-3, 3-Centipede-{Night}, 4-Small Centipede-2-{Night}
+GW_B09 : 2-Leech-10-{Ignorecycle}, 3-Snail-2, 4-Garbage Worm-2-{Ignorecycle}, 3-LanternMouse-2-{Night}
+GW_D02 : 6-Leech-10-{Ignorecycle}, 3-Snail, 4-Snail, 5-Snail, 3-LanternMouse-{Night}
+GW_E01 : 7-Leech-10-{Ignorecycle}, 2-CicadaB, 3-CicadaB, 5-Bro, 6-Bro, 2-LanternMouse-{Night}
+GW_C10 : 2-Leech-7-{Ignorecycle}, 3-Snail-3, 3-LanternMouse-{Night}
+GW_C08 : 3-Leech-10-{Ignorecycle}, 5-Snail-4, 5-LanternMouse-{Night}
+GW_C04 : 13-Garbage Worm-2-{Ignorecycle}, 6-Leech-3-{Ignorecycle}, 7-Leech-3-{Ignorecycle}, 6-Snail-2-{Night}, 7-Snail-2-{Night}
+GW_B08 : 2-CicadaB-1, 3-CicadaA-2, 8-Leech-3-{Ignorecycle}, 9-Leech-5-{Ignorecycle}, 10-Leech-5-{Ignorecycle}, 12-Sea Leech-10-{Ignorecycle}, 13-Sea Leech-10-{Ignorecycle}, 2-LanternMouse-{Night}, 3-LanternMouse-{Night}
+GW_A08 : 2-Snail-2, 3-Snail-3, 2-SpitterSpider-{Night}, 3-BigSpider-2-{Night}
+GW_A04 : 3-Small Centipede-3, 3-RedCentipede-{Night}
+LINEAGE : GW_C03 : 5 : Green-0.2, Yellow-0.5, Red-0
+LINEAGE : GW_E02 : 6 : NONE-0.05, Mimic-{17}-0.5, Mimic-{21}-0.5, TentaclePlant-0
+LINEAGE : GW_C09 : 5 : NONE-0.07, Bro-0.5, NONE-0.07, Bro-0
+LINEAGE : GW_C09 : 6 : NONE-0.1, Bro-0.5, NONE-0.05, Bro-0
+LINEAGE : GW_C06 : 4 : Small Centipede-0.5, Centipede-{0.3}-0.5, Centipede-{0.6}-0.5, Centipede-{0.9}-0.5, Red Centipede-0
+
+//white
+(White)LINEAGE : GW_B02 : 4 : White-0.3, BigSpider-0.3, SpitterSpider-0
+
+//white and yellow
+(White,Yellow)OFFSCREEN : 0-Vulture-3, 0-Scavenger-26, 0-Vulture-2-{Night}, 0-KingVulture-{Night}, 0-Scavenger-32-{Night}
+(White,Yellow)GW_C02 : 2-CicadaB-2, 3-CicadaB-1, 2-BigSpider-{Night}, 3-BigSpider-{Night}
+(White,Yellow)GW_C06 : 3-Mimic, 4-Small Centipede-2, 4-LanternMouse-2-{Night}
+(White,Yellow)GW_A10 : 3-Leech-4-{Ignorecycle}, 3-Snail-2-{Night}
+(White,Yellow)GW_B03 : 6-Leech-5-{Ignorecycle}, 6-Snail-2-{Night}
+(White,Yellow)GW_C09 : 3-Bro, 4-Bro, 3-SpitterSpider-{Night}, 4-MotherSpider-{Night}
+
+//yellow
+(Yellow)LINEAGE : GW_B02 : 4 : Pink-0.5, White-0
+
+//red
+(Red)OFFSCREEN : 0-Vulture-3, 0-KingVulture, 0-Scavenger-26, 0-KingVulture-2-{Night}, 0-Scavenger-31-{Night}
+(Red)GW_A10 : 3-Leech-7-{Ignorecycle}, 3-TentaclePlant-{Ignorecycle}
+(Red)GW_A11 : 4-Centipede-2, 5-Mimic-{12}, 4-LanternMouse-{Night}
+(Red)GW_C06 : 3-Mimic, 4-Dropbug, 4-Dropbug-2-{Night}
+(Red)GW_B03 : 6-Leech-10-{Ignorecycle}, 4-Leech-4-{Ignorecycle}, 5-Leech-14-{Ignorecycle}
+(Red)GW_C03 : 4-DropBug-2, 4-SpitterSpider-{Night}, 4-BigSpider-2-{Night}
+(Red)GW_A12 : 2-DropBug, 2-MotherSpider-{Night}
+(Red)GW_D01 : 6-Cyan-2, 8-Leech-7-{Ignorecycle}, 6-Red-{Night}
+(Red)GW_C02 : 2-CicadaB-3, 3-Cyan, 3-White-2-{Night}, 3-BigSpider-2-{Night}
+(Red)GW_A04 : 3-Centipede, 3-RedCentipede-{Night}, 3-Small Centipede-{Night}
+(Red)GW_B08 : 4-DropBug, 4-LanternMouse-2-{Night}
+(Red)GW_B02 : 4-RedCentipede, 4-Centipede-2-{Night}, 4-Small Centipede-2-{Night}
+(Red)GW_A07 : 2-Leech-3-{Ignorecycle}
+(Red)GW_C09 : 3-Bro, 4-Daddy, 3-LanternMouse-3-{Night}
+(Red)LINEAGE : GW_A11 : 3 : Centipede-0.5, Centipede-{0.7}-0.5, RedCentipede-0
+(Red)LINEAGE : GW_C04 : 2 : EggBug-1.0, Cyan-0
+
+//white and red
+
+//MSC STUFF BELOW
+
+(X-White,Yellow,Red,Rivulet,Gourmand,Saint,Spear,Artificer,Inv)OFFSCREEN : 0-Vulture-3, 0-Scavenger-26, 0-Vulture-2-{Night}, 0-KingVulture-{Night}, 0-Scavenger-31-{Night}, 0-ScavengerElite-4-{Night}
+(Gourmand)OFFSCREEN : 0-Vulture-3, 0-Scavenger-26, 0-Vulture-2-{Night}, 0-KingVulture-{Night}, 0-Scavenger-31-{Night}, 0-ScavengerElite-4-{Night}
+(Yellow)OFFSCREEN : 0-Vulture-3, 0-Scavenger-20, 0-Vulture-2-{Night}, 0-KingVulture-{Night}, 0-Scavenger-31-{Night}, 0-ScavengerElite-4-{Night}
+(Rivulet)OFFSCREEN : 0-Vulture-3, 0-Scavenger-19, 0-Vulture-2-{Night}, 0-KingVulture-{Night}, 0-Scavenger-25-{Night}, 0-MirosVulture-{Night}, 0-ScavengerElite-5-{Night}
+(Artificer)OFFSCREEN : 0-Vulture-4, 0-KingVulture, 0-Scavenger-32, 0-Vulture-2-{Night}, 0-KingVulture-2-{Night}, 0-Scavenger-40-{Night}, 0-ScavengerElite-5-{Night}
+(Spear)OFFSCREEN : 0-Vulture-3, 0-KingVulture-2, 0-Scavenger-30, 0-Elite-1, 0-Vulture-{Night}, 0-KingVulture-3-{Night}, 0-MirosVulture-{Night}, 0-Scavenger-35-{Night}, 0-ScavengerElite-5-{Night}
+(Saint)OFFSCREEN : 0-MirosVulture-4-{Ignorecycle}, 0-Scavenger-12, 0-Vulture-3, 0-MirosVulture-2-{Night}, 0-KingVulture-2-{Night}, 0-Vulture-{Night}, 0-Scavenger-15-{Night}
+(Inv)OFFSCREEN : 0-MirosVulture-{Ignorecycle}-3, 0-Scavenger-32, 0-MirosVulture-10-{Night}, 0-Scavenger-50-{Night}, 0-ScavengerElite-15-{Night}
+(Red)LINEAGE : OFFSCREEN : 0 : NONE-0.5, Scavenger-0.1, NONE-0.1, Elite-0
+
+(X-Saint)GW_B01 : 5-Leech-10-{Ignorecycle}, 3-Leech-5-{Ignorecycle}, 9-Garbage Worm-2-{Ignorecycle}, 5-LanternMouse-{Night}
+(X-Yellow,Rivulet,Saint)GW_C01 : 10-Garbage Worm-4, 3-Leech-7-{Ignorecycle}, 5-Leech-7-{Ignorecycle}, 4-TentaclePlant-{PreCycle}, 3-Salamander-{PreCycle}, 3-LanternMouse-2-{Night}
+(Yellow)GW_C01 : 10-Garbage Worm-2-{Ignorecycle}, 3-Leech-7-{Ignorecycle}, 5-Leech-7-{Ignorecycle}, 4-TentaclePlant-{PreCycle}, 3-Salamander-{PreCycle}, 3-LanternMouse-2-{Night}
+(Rivulet)GW_C01 : 10-Garbage Worm-2-{Ignorecycle}, 3-Leech-7-{Ignorecycle}, 5-Leech-7-{Ignorecycle}, 4-Eel, 4-TentaclePlant-{PreCycle}, 3-Salamander-{PreCycle}, 3-LanternMouse-2-{Night}
+(X-Rivulet,Saint)GW_B04 : 3-Leech-7-{Ignorecycle}, 4-Leech-7-{Ignorecycle}, 3-LanternMouse-2-{Night}
+(Rivulet)GW_B04 : 3-Leech-7-{Ignorecycle}, 4-Leech-11
+(Saint)GW_B04 : 4-Sea Leech-8
+(X-Yellow,Rivulet,Red,Saint,Inv)GW_D01 : 7-Leech-8, 19-Garbage Worm-5, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}, 9-LanternMouse-2-{Night}, 9-Cyan-{Night}
+(Yellow)GW_D01 : 7-Leech-8, 19-Garbage Worm-2-{Ignorecycle}, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}, 9-LanternMouse-2-{Night}, 9-White-{Night}
+(Rivulet)GW_D01 : 7-Leech-8, 19-Garbage Worm-2-{Ignorecycle}, 4-White, 3-Blue, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}, 9-LanternMouse-2-{Night}, 9-Cyan-{Night}
+(Red)GW_D01 : 7-Leech-8, 19-Garbage Worm-5, 6-Cyan-2, 8-Leech-7-{Ignorecycle}, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}, 9-LanternMouse-2-{Night}, 9-Cyan-{Night}
+(Saint)GW_D01 : 3-Centiwing-2, 6-Yellow-3, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}, 9-LanternMouse-2-{Night}, 9-Strawberry-{Night}
+(Inv)GW_D01 : 6-Red-2, 8-Leech-7-{Ignorecycle}, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}, 9-TrainLizard-3-{Night}
+(White,Gourmand)GW_C02 : 2-CicadaB-2, 3-CicadaB-1, 13-Garbage Worm-4, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}, 2-LanternMouse-2-{Night}, 3-BigSpider-2-{Night}
+(Yellow)GW_C02 : 2-CicadaB-2, 3-CicadaB-1, 13-Garbage Worm-3, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}, 2-LanternMouse-2-{Night}, 3-BigSpider-2-{Night}
+(Rivulet)GW_C02 : 2-White, 13-Garbage Worm-3, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}, 2-LanternMouse-2-{Night}, 3-SpitterSpider-{Night}
+(Red)GW_C02 : 13-Garbage Worm-4, 2-CicadaB-3, 3-Cyan, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}, 2-LanternMouse-2-{Night}, 3-SpitterSpider-{Night}
+(Saint)GW_C02 : 2-Strawberry, 2-Centiwing, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}, 2-LanternMouse-2-{Night}, 3-SpitterSpider-{Night}
+(Inv)GW_C02 : 2-CicadaB-3, 3-Red, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}, 2-TrainLizard-2-{Night}, 3-TrainLizard-3-{Night}
+(X-Yellow,Rivulet,Saint)GW_E02 : 7-Pink, 5-Green, 8-Mimic-{14}, 3-CicadaB-2, 4-CicadaB-1, 19-Garbage Worm-3, 7-White-{Night}, 5-Cyan-{Night}, 3-LanternMouse-2-{Night}, 4-LanternMouse-{Night}
+(Yellow)GW_E02 : 7-Pink, 5-Caramel, 8-Mimic-{14}, 3-CicadaB-2, 4-CicadaB-1, 19-Garbage Worm-3, 7-White-{Night}, 3-LanternMouse-2-{Night}, 4-LanternMouse-{Night}
+(Rivulet)GW_E02 : 7-Yellow-3, 5-Caramel, 8-Mimic-{14}, 3-CicadaB-2, 4-CicadaB-1, 19-Garbage Worm-3, 7-Cyan-{Night}, 5-Cyan-{Night}, 3-LanternMouse-2-{Night}, 4-LanternMouse-{Night}
+(Saint)GW_E02 : 6-Centiwing, 5-Yellow-4, 8-Caramel, 7-Strawberry-{Night}, 5-White-{Night}, 3-LanternMouse-2-{Night}, 4-LanternMouse-{Night}
+(X-Saint)GW_B09 : 2-Leech-10-{Ignorecycle}, 3-Snail-2, 4-Garbage Worm-2-{Ignorecycle}, 3-BigSpider-{Night}
+(Saint)GW_B09 : 3-Jungle Leech-9-{Ignorecycle}, 2-Drop Bug-{Ignorecycle}, 4-Garbage Worm-2-{Ignorecycle}-{Ignorecycle}, 3-SpitterSpider-{Night}, 2-Drop Bug-2-{Night}
+(X-Saint)GW_D02 : 6-Leech-10-{Ignorecycle}, 3-Snail, 4-Snail, 5-Snail, 3-Snail-2-{Night}, 4-Big Spider-2-{Night}, 5-Spitter Spider-{Night}
+(Rivulet)GW_D02 : 6-Leech-10-{Ignorecycle}, 3-Snail, 4-Snail, 5-Snail, 5-Big Spider-2, 3-Snail-2-{Night}, 4-Big Spider-2-{Night}, 5-Spitter Spider-{Night}
+(Saint)GW_D02 : 4-Big Spider-3-{Winter}, 6-Jungle Leech-5-{Ignorecycle}-{Ignorecycle}, 3-Drop Bug-{Ignorecycle}, 4-Spitter Spider-2-{Night}, 3-Drop Bug-{Night}
+(X-Rivulet,Saint)GW_E01 : 7-Leech-10-{Ignorecycle}, 2-CicadaB, 3-CicadaB, 5-Bro, 6-Bro
+(Rivulet)GW_E01 : 2-Centipede, 3-Centipede, 4-Red Centipede
+(Saint)GW_E01 : 2-Centipede, 3-Centipede, 4-Red Centipede, 6-SpitterSpider-{Winter}
+(X-Saint)GW_C10 : 2-Leech-7-{Ignorecycle}, 3-Snail-3
+(Saint)GW_C10 : 4-Garbage Worm-3, 2-Jungle Leech-3-{Ignorecycle}, 3-Jungle Leech-3-{Ignorecycle}
+(X-Saint,Yellow,Rivulet)GW_C08 : 3-Leech-10-{Ignorecycle}, 5-Snail-4, 3-Daddy-{PreCycle}
+(Yellow,Rivulet)GW_C08 : 3-Leech-10-{Ignorecycle}, 5-Snail-4, 3-Bro-{PreCycle}
+(X-Yellow,Rivulet,Saint)GW_C04 : 13-Garbage Worm-2-{Ignorecycle}, 6-Leech-3-{Ignorecycle}, 7-Leech-3-{Ignorecycle}, 4-Salamander-2-{PreCycle}
+(Yellow,Rivulet)GW_C04 : 13-Garbage Worm-1, 6-Leech-3-{Ignorecycle}, 7-Leech-3-{Ignorecycle}, 4-Salamander-2-{PreCycle}
+(Saint)GW_C04 : 4-Caramel, 4-Salamander-2-{PreCycle}
+(X-Red,Artificer,Spear,Saint,Inv)GW_B08 : 2-CicadaB-1, 3-CicadaA-2, 8-Leech-3-{Ignorecycle}, 9-Leech-5-{Ignorecycle}, 10-Leech-5-{Ignorecycle}, 12-Sea Leech-10-{Ignorecycle}, 13-Sea Leech-10-{Ignorecycle}
+(Red,Inv)GW_B08 : 2-CicadaB-1, 3-CicadaA-2, 4-DropBug, 8-Leech-3-{Ignorecycle}, 9-Leech-5-{Ignorecycle}, 10-Leech-5-{Ignorecycle}, 12-Sea Leech-10-{Ignorecycle}, 13-Sea Leech-10-{Ignorecycle}
+(Saint)GW_B08 : 12-Sea Leech-6-{Ignorecycle}, 10-Sea Leech-3-{Ignorecycle}-{Ignorecycle}, 8-Sea Leech-3-{Ignorecycle}-{Ignorecycle}, 2-Big Spider-2-{Winter}
+(X-Rivulet,Saint)GW_A08 : 2-Snail-2-{Ignorecycle}, 3-Snail-3-{Ignorecycle}
+(Rivulet)GW_A08 : 2-Leech-12, 3-Eel-{Ignorecycle}
+(Saint)GW_A08 : 3-Sea Leech-4-{Ignorecycle}, 3-Salamander-{Night}
+(X-Red,Artificer,Spear,Inv)GW_A04 : 3-Small Centipede-3, 3-Centipede-{Night}, 3-Small Centipede-2-{Night}
+(Red,Artificer,Spear)GW_A04 : 3-Small Centipede-3, 3-Centipede, 3-Red Centipede-{Night}, 3-Centipede-2-{Night}
+(Inv)GW_A04 : 3-Small Centipede-3, 3-RedCentipede, 3-RedCentipede-3-{Night}, 3-Centipede-5-{Night}
+
+(X-Red,Inv,Saint)GW_C06 : 3-Mimic, 4-Small Centipede-2, 4-Salamander-{PreCycle}, 4-Centipede-2-{Night}, 4-Small Centipede-3-{Night}
+(Red,Inv)GW_C06 : 3-Mimic, 4-Dropbug, 4-Salamander-{PreCycle}, 4-RedCentipede-{Night}, 4-Centipede-2-{Night}
+(Saint)GW_C06 : 3-Centipede-2, 4-Centipede-1, 4-Centipede-2, 4-Salamander-{PreCycle}, 4-RedCentipede-{Night}, 4-Centipede-2-{Night}
+(X-Rivulet,Red,Inv,Saint)GW_A10 : 3-Leech-4-{Ignorecycle}
+(Rivulet)GW_A10 : 3-Leech-4-{Ignorecycle}, 3-TentaclePlant-{Ignorecycle}
+(Red,Inv)GW_A10 : 3-Leech-7-{Ignorecycle}, 3-TentaclePlant-{Ignorecycle}
+(Saint)GW_A10 : 3-Sea Leech-7-{Ignorecycle}
+(X-Rivulet,Red,Inv,Saint)GW_B03 : 6-Leech-5-{Ignorecycle}, 6-Bro-{PreCycle}, 6-Daddy-{Night}
+(Rivulet)GW_B03 : 4-Aquapede-1, 6-Leech-5-{Ignorecycle}, 6-Bro-{PreCycle}, 6-Terror-{Night}
+(Red,Inv)GW_B03 : 6-Leech-10-{Ignorecycle}, 4-Leech-4-{Ignorecycle}, 5-Leech-14-{Ignorecycle}, 6-Bro-{PreCycle}, 6-Terror-{Night}
+(Saint)GW_B03 : 4-Sea Leech-3-{Ignorecycle}, 6-Bro-{PreCycle}, 6-Daddy-{Night}, 6-Terror-{Night}
+(X-Rivulet,Spear,Red,Artificer,Saint,Inv)GW_C09 : 3-Bro, 4-Bro, 3-Daddy-{Night}, 4-LanternMouse-{Night}
+(Rivulet)GW_C09 : 4-Bro, 6-Leech-29, 4-Daddy-{Night}
+(Spear)GW_C09 : 4-Terror-{Ignorecycle}
+(Red,Artificer)GW_C09 : 3-Bro, 4-Daddy, 3-Terror-{Night}, 4-LanternMouse-{Night}
+(Saint)GW_C09 : 4-Sea Leech-9
+(Inv)GW_C09 : 3-Daddy-{AlternateForm}, 4-Daddy-{AlternateForm}, 3-Terror-2-{Night}, 4-Terror-2-{Night}
+
+(Saint)GW_A11 : 3-Centiwing-2, 3-Centipede-2-{Night}, 3-Small Centipede-2-{Night}
+(Inv)GW_A11 : 5-Mimic-{12}, 4-RedCentipede-2, 4-RedCentipede-4-{Night}
+(Rivulet)GW_C03 : 4-Caramel, 4-Cyan-{Night}
+(Saint)GW_C03 : 4-Caramel, 3-Centiwing-2, 4-Cyan-{Night}, 3-Centipede-2-{Night}
+(Inv)GW_C03 : 4-DropBug-2, 4-DropBug-5-{Night}
+(Rivulet)GW_A12 : 2-Big Spider-2, 2-SpitterSpider-{Night}, 2-MotherSpider-{Night}
+(Saint)GW_A12 : 2-DropBug-{Ignorecycle}, 2-MotherSpider-{Night}
+(Inv)GW_A12 : 2-DropBug, 2-MotherSpider-5-{Night}
+(Gourmand,Inv)GW_B02 : 4-RedCentipede, 4-Centipede-2-{Night}, 4-Small Centipede-3-{Night}
+(Artificer)GW_B02 : 4-RedCentipede, 4-Daddy-{PreCycle}, 4-Daddy-{Night}
+(Spear)GW_B02 : 4-Daddy-{PreCycle}, 4-Daddy-{Night}
+(Inv)GW_A07 : 2-Leech-3-{Ignorecycle}, 4-Terror-2-{Night}
+(Saint)GW_A25 : 3-Lantern Mouse-3-{Ignorecycle}, 3-Big Spider-2-{Night}
+
+(X-Yellow,Rivulet,Saint,Red,Artificer,Spear)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(Yellow)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(Rivulet)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(Red,Artificer,Spear)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)GW_EDGE03 : 17-Leech-5-{Ignorecycle}, 18-Leech-8, 7-CicadaB-2, 8-CicadaA-3, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}, 7-Centiwing-2-{Night}, 8-Centiwing-{Night}, 17-Eel-{Night}, 18-Salamander-{Night}
+(Yellow,Rivulet)GW_EDGE03 : 17-Leech-5-{Ignorecycle}, 18-Leech-8, 7-CicadaB-3, 8-CicadaA-4, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}, 7-Centiwing-2-{Night}, 8-Centiwing-{Night}, 17-Eel-{Night}, 18-Salamander-{Night}
+(Red,Artificer)GW_EDGE03 : 17-Leech-9, 18-Leech-12, 7-CicadaB-1, 8-CicadaA-2, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}, 7-Centiwing-2-{Night}, 8-Centiwing-{Night}, 17-SpitterSpider-{Night}, 18-Mother Spider-{Night}
+(Spear)GW_EDGE03 : 17-Leech-9, 18-Leech-12, 5-DropBug-2, 7-CicadaB-1, 8-CicadaA-2, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}, 7-Centiwing-2-{Night}, 8-Centiwing-{Night}, 17-SpitterSpider-{Night}, 18-Mother Spider-{Night}
+(Saint)GW_EDGE03 : 7-Lantern Mouse-5, 13-Big Spider-3-{Winter}, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}, 7-Centiwing-2-{Night}, 8-Centiwing-{Night}, 17-SpitterSpider-{Night}, 18-Mother Spider-{Night}
+(Rivulet)GW_EDGE04 : 3-Big Spider-3-{Ignorecycle}, 3-LanternMouse-2-{Night}
+(Rivulet)GW_EDGE05 : 2-White, 2-Cyan-{Night}
+(Saint)GW_EDGE05 : 2-DropBug-2-{Ignorecycle}
+
+(Artificer,Spear)GW_TOWER01 : 4-Blue, 4-Cyan-{White}
+(Artificer,Spear)GW_TOWER07 : 7-Caramel, 7-Cyan-{Night}
+(Artificer,Spear)GW_TOWER03 : 3-Leech-7-{Ignorecycle}, 2-Leech-5-{Ignorecycle}
+(Artificer,Spear)GW_B08 : 2-CicadaB-1, 3-CicadaA-2, 2-Centiwing-{Night}, 3-Centiwing-{Night}
+(Artificer,Spear)GW_TOWER03 : 7-Garbage Worm-2-{Ignorecycle}, 2-Leech-10-{Ignorecycle}, 3-Leech-8
+(Artificer,Spear)GW_PIPE02 : 3-Leech-6, 4-Snail-2-{Ignorecycle}
+(Artificer,Spear)GW_TOWER07 : 3-DropBug, 3-DropBug-{Night}
+(Artificer,Spear)GW_A11_PAST : 5-Mimic-{12}, 4-Centipede-2, 4-RedCentipede-{Night}
+(Artificer,Spear)GW_C04_PAST : 15-Garbage Worm-2-{Ignorecycle}, 7-Leech-3-{Ignorecycle}, 9-Leech-3-{Ignorecycle}, 11-Salamander-2-{PreCycle}, 11-Salamander-2-{Night}
+(Artificer,Spear)GW_D01_PAST : 7-Leech-8, 16-Garbage Worm-5, 5-Cyan-2, 8-Leech-7-{Ignorecycle}, 5-White-2-{Night}
+(Artificer,Spear)GW_C02_PAST : 13-Garbage Worm-4, 2-CicadaB-3, 3-Cyan, 9-Leech-7-{Ignorecycle}, 6-TentaclePlant-{PreCycle}, 6-Scavenger-{PreCycle,Seed:2837}, 3-White-{Night}, 6-Scavenger-2-{Night}
+(Artificer,Spear)GW_TOWER15 : 3-CicadaA-2, 4-CicadaB-3, 3-Centiwing-{Night}, 4-Centiwing-{Night}
+(Artificer,Spear)GW_TOWER08 : 3-Cyan-2, 3-White-2-{Night}
+(Artificer,Spear)GW_TOWER11 : 3-SpitterSpider-2, 3-MotherSpider-{Night}, 3-Big Spider-2-{Night}
+(Artificer,Spear)GW_TOWER10 : 3-Blue, 3-Cyan-{Night}
+(Artificer,Spear)GW_B09_PAST : 2-Leech-10-{Ignorecycle}, 4-Snail-2, 7-Garbage Worm-2-{Ignorecycle}
+(Artificer,Spear)GW_PIPE03 : 2-Blue, 2-Cyan-{Night}
+(Artificer,Spear)GW_PIPE13 : 2-CicadaA-3, 3-CicadaB-6, 5-Leech-5-{Ignorecycle}, 4-Leech-8, 2-Centiwing-{Night}, 3-Centiwing-{Night}, 2-LanternMouse-{Night}, 3-LanternMouse-{Night}
+(Artificer,Spear)GW_PIPE12 : 5-Leech-12
+(Artificer,Spear)GW_PIPE09 : 2-Centipede, 2-Small Centipede-3, 2-RedCentipede-{Night}, 2-Centipede-2-{Night}
+(Artificer,Spear)GW_PIPE07 : 4-Big Spider-2, 4-SpitterSpider, 4-SpitterSpider-{Night}, 4-MotherSpider-{Night}
+(Artificer,Spear)GW_PIPE05 : 5-Centipede, 6-Small Centipede-3, 5-Centipede-2-{Night}, 6-Small Centipede-3-{Night}
+(Artificer,Spear)GW_C06_PAST : 3-Cyan-2, 8-Dropbug, 3-White-2-{Night}, 8-DropBug-{Night}
+(Artificer,Spear)GW_E02_PAST : 7-Cyan, 8-Red, 5-Mimic-{14}, 3-CicadaB-3, 4-CicadaA-2, 18-Garbage Worm-3, 7-White-{Night}, 8-Red-{Night}
+(Artificer,Spear)GW_C01_PAST : 5-Leech-7-{Ignorecycle}, 7-Leech-7-{Ignorecycle}, 2-CicadaB-2-{Ignorecycle}, 3-CicadaA-3-{Ignorecycle}, 2-Centiwing-{Night}, 3-Centiwing-{Night}
+(Artificer,Spear)GW_B01_PAST : 7-Leech-10-{Ignorecycle}, 10-Garbage Worm-2-{Ignorecycle}, 4-CicadaA-2-{Ignorecycle}, 4-CicadaB-1-{Ignorecycle}
+(Artificer,Spear)LINEAGE : GW_E02_PAST : 6 : NONE-0.05, Mimic-{17}-0.5, Mimic-{21}-0.5, TentaclePlant-0
+(Artificer,Spear)LINEAGE : GW_A11_PAST : 4 : Centipede-0.5, Centipede-{0.7}-0.5, RedCentipede-0
+(Artificer,Spear)LINEAGE : GW_C04_PAST : 2 : EggBug-1.0, Cyan-0
+
+(X-Yellow,Rivulet,Artificer,Spear,Saint)LINEAGE : GW_C03 : 5 : Caramel-0.2, Yellow-0.5, Red-0
+(Yellow,Rivulet)LINEAGE : GW_C03 : 5 : Caramel-0.2, Strawberry-0.5, Red-0
+(Artificer,Spear)LINEAGE : GW_C03 : 5 : Green-0.2, Yellow-0.5, Red-0
+(Saint)LINEAGE : GW_C03 : 5 : Caramel-0.2, Green-0.5, Red-0
+(X-Saint)LINEAGE : GW_E02 : 6 : NONE-0.05, Mimic-{17}-0.5, Mimic-{21}-0.5, TentaclePlant-0
+(X-Saint)LINEAGE : GW_C09 : 5 : NONE-0.07, Bro-0.5, NONE-0.07, Bro-0
+(X-Saint)LINEAGE : GW_C09 : 6 : NONE-0.01, Bro-0.5, NONE-0.01, Bro-0
+(Gourmand,Inv)LINEAGE : GW_B02 : 4 : White-0.3, BigSpider-0.3, SpitterSpider-0
+(Rivulet)LINEAGE : GW_B02 : 4 : Cyan-0.5, Strawberry-0.6, White-0
+(Saint)LINEAGE : GW_B02 : 4 : Big Spider-0.5, White-0
+(Inv)LINEAGE : GW_A11 : 3 : RedCentipede-0
+(Inv)LINEAGE : GW_C04 : 2 : Red-0
+
+END CREATURES

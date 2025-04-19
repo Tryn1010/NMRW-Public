@@ -1,0 +1,12 @@
+{
+  "id": "TrynsNMRW",
+  "name": "No More Rain World",
+  "version": "1.9",
+  "target_game_version": "v1.10.2",
+  "authors": "Tryn",
+  "description": "Also known as World or Not So Rain World.<LINE>Removes the Rain and replaces it with a night that holds a very distinct ecosystem.<LINE>Special thanks to Bro for help optimizing the mod with code!",
+  "requirements": [ "crs", "regionkit", "dawn" ],
+  "requirements_names": [ "Custom Region Support", "Regionkit", "Dawn" ],
+  "tags": [ "Region" ],
+  "checksum_override_version": false
+}

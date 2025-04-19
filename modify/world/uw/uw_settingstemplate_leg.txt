@@ -1,0 +1,9 @@
+[MERGE]
+
+RainIntensity: 0
+RumbleIntensity: 0
+Effects: DayNight-1-286-78, Lightning-0-20-20, ElectricDeath-0-18-77, 
+DangerType: None
+PlacedObjects: DayNightSettings><524.8519><320.9221><-38~-105.3398~3~33, 
+
+[ENDMERGE]

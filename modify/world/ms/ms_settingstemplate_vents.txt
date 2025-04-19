@@ -1,0 +1,6 @@
+[MERGE]
+
+Effects: ElectricDeath-0-22-82,
+DangerType: None
+
+[ENDMERGE]

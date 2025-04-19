@@ -1,0 +1,6 @@
+[MERGE]
+
+Effects: Dawn-1-620-369, 
+PlacedObjects: DawnData><280.6998><271.7593><253~215.6603~35, 
+
+[ENDMERGE]

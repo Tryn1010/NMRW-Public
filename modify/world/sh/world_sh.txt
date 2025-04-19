@@ -1,0 +1,124 @@
+[MERGE]
+CREATURES
+//all
+SH_A11 : 4-Lantern Mouse-2-{Ignorecycle}
+SH_A12 : 3-Lantern Mouse-2-{Ignorecycle}
+SH_A14 : 3-Lantern Mouse-2-{Ignorecycle}
+SH_B01 : 4-Lantern Mouse-{Ignorecycle}, 3-Lantern Mouse-{Ignorecycle}
+SH_A05 : 3-Lantern Mouse-2-{Ignorecycle}
+SH_C07 : 6-Spider-20-{Ignorecycle}, 4-Spider-20-{Ignorecycle}
+SH_B17 : 3-Spider-10-{Ignorecycle}, 4-Spider-12-{Ignorecycle}
+SH_C03 : 4-Spider-10-{Ignorecycle}
+SH_A21 : 2-Lantern Mouse-1-{Ignorecycle}, 3-Lantern Mouse-1-{Ignorecycle}, 4-Lantern Mouse-1-{Ignorecycle}
+SH_C01 : 4-Lantern Mouse-2-{Ignorecycle}, 5-Lantern Mouse-2-{Ignorecycle}
+SH_A16 : 2-Spider-10-{Ignorecycle}, 3-Spider-5-{Ignorecycle}
+SH_A17 : 3-Spider-10-{Ignorecycle}, 4-Spider-10-{Ignorecycle}, 2-Spider-20-{Ignorecycle}
+SH_B06 : 2-Spider-10-{Ignorecycle}, 3-Spider-10-{Ignorecycle}, 4-Spider-20-{Ignorecycle}, 5-Spider-20-{Ignorecycle}
+SH_B11 : 4-Spider-10-{Ignorecycle}, 5-Spider-10-{Ignorecycle}
+SH_B07 : 3-Spider-15-{Ignorecycle}
+SH_A06 : 2-Lantern Mouse-2-{Ignorecycle}, 3-Lantern Mouse-2-{Ignorecycle}
+SH_B02 : 4-Spider-15-{Ignorecycle}, 3-Lantern Mouse-2-{Ignorecycle}, 8-Lantern Mouse-1-{Ignorecycle}
+SH_B03 : 3-Lantern Mouse-1-{Ignorecycle}, 2-Lantern Mouse-2-{Ignorecycle}
+SH_A07 : 6-Spider-10-{Ignorecycle}
+SH_A22 : 2-Spider-10-{Ignorecycle}
+SH_A23 : 4-Spider-10-{Ignorecycle}
+SH_C08 : 4-Black-2-{Ignorecycle}
+SH_A09 : 4-Lantern Mouse-{Ignorecycle}, 5-Lantern Mouse-{Ignorecycle}
+SH_A19 : 1-Spider-15-{Ignorecycle}, 2-Spider-15-{Ignorecycle}
+SH_B04 : 3-Lantern Mouse-2-{Ignorecycle}, 4-Lantern Mouse-2-{Ignorecycle}
+SH_A04 : 4-Lantern Mouse-2-{Ignorecycle}, 3-Lantern Mouse-2-{Ignorecycle}
+SH_D02 : 3-Tentacle Plant-{Ignorecycle}, 4-Tentacle Plant-{Ignorecycle}
+SH_B10 : 3-Tentacle Plant-{Ignorecycle}
+SH_E02 : 4-Tentacle Plant-{Ignorecycle}, 5-Tentacle Plant-{Ignorecycle}, 6-Tentacle Plant-{Ignorecycle}
+SH_C10 : 3-Lantern Mouse-{Ignorecycle}, 4-Lantern Mouse-{Ignorecycle}, 5-Lantern Mouse-{Ignorecycle}, 6-Lantern Mouse-{Ignorecycle}, 7-Lantern Mouse-{Ignorecycle}
+SH_H01 : 4-Small Centipede-3-{Ignorecycle}
+
+//white and yellow
+(White,Yellow)SH_D01 : 3-Pink, 3-White-{Night}
+(White,Yellow)SH_C09 : 2-Spider-5-{Ignorecycle}, 3-Spider-5-{Ignorecycle}, 4-Spider-15-{Ignorecycle}, 5-Spider-10-{Ignorecycle}
+(White,Yellow)SH_C05 : 2-Lantern Mouse-{Ignorecycle}, 3-Lantern Mouse-{Ignorecycle}, 5-Lantern Mouse-{Ignorecycle}, 6-Lantern Mouse-{Ignorecycle}, 4-Spider-15-{Ignorecycle}
+(White,Yellow)SH_C04 : 8-Lantern Mouse-2-{Ignorecycle}, 5-Lantern Mouse-1-{Ignorecycle}, 6-Lantern Mouse-{Ignorecycle}, 7-Spider-20-{Ignorecycle}
+
+//yellow
+(Yellow)OFFSCREEN : 0-Miros Bird-14-{Ignorecycle}, 0-Scavenger-7-{Ignorecycle}
+
+//red
+(Red)SH_C09 : 2-Spider-5-{Ignorecycle}, 3-Spider-10-{Ignorecycle}, 4-Spider-15-{Ignorecycle}, 5-Spider-15-{Ignorecycle}, 3-BigSpider-{Ignorecycle}
+(Red)SH_C05 : 2-Lantern Mouse-{Ignorecycle}, 3-Lantern Mouse-{Ignorecycle}, 5-Lantern Mouse-{Ignorecycle}, 6-BigSpider-{Ignorecycle}, 4-Spider-20-{Ignorecycle}
+(Red)SH_C04 : 8-Lantern Mouse-2-{Ignorecycle}, 5-Lantern Mouse-2-{Ignorecycle}, 6-Dropbug-{Ignorecycle}, 7-Spider-20-{Ignorecycle}
+(Red)SH_A15 : 4-Dropbug-{Ignorecycle}
+(Red)SH_A14 : 4-Dropbug-{Ignorecycle}
+(Red)SH_H01 : 4-Centipede-{0.65}-{Ignorecycle}
+(Red)SH_B06 : 4-BigSpider-2-{Ignorecycle}, 5-BigSpider-{Ignorecycle}
+(Red)SH_C03 : 5-SpitterSpider-{Ignorecycle}, 7-Spider-30-{Ignorecycle}
+(Red)SH_C01 : 6-SpitterSpider-{Ignorecycle}
+(Red)SH_B13 : 3-BigSpider-{Ignorecycle}, 3-Spider-10-{Ignorecycle}
+(Red)SH_B07 : 2-BigSpider-{Ignorecycle}, 4-Spider-5-{Ignorecycle}
+(Red)SH_E02 : 3-Centipede-{0.25}-{Ignorecycle}, 3-Centipede-{0.2}-{Ignorecycle}, 3-Centipede-{0.4}-{Ignorecycle}, 3-Centipede-{0.35}-{Ignorecycle}
+
+//white and red
+(White,Red)OFFSCREEN : 0-Miros Bird-17-{Ignorecycle}, 0-Scavenger-7-{Ignorecycle}
+
+// MSC SPAWNS BELOW ----------------------------------------------------------------------------------
+
+(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)OFFSCREEN : 0-Miros Bird-17-{Ignorecycle}, 0-Scavenger-7-{Ignorecycle}
+(Gourmand)OFFSCREEN : 0-Miros Bird-17-{Ignorecycle}, 0-Scavenger-7-{Ignorecycle}
+(Rivulet)OFFSCREEN : 0-Scavenger-11-{Ignorecycle}
+(Artificer)OFFSCREEN : 0-Miros Bird-14-{Ignorecycle}, 0-Scavenger-15-{Ignorecycle}, 0-MirosVulture-1-{Ignorecycle}
+(Spear)OFFSCREEN : 0-Miros Bird-10-{Ignorecycle}, 0-Scavenger-12-{Ignorecycle}, 0-MirosVulture-2-{Ignorecycle}
+SH_A21 : 2-Lantern Mouse-1-{Ignorecycle}, 3-Lantern Mouse-1-{Ignorecycle}, 4-Lantern Mouse-1-{Ignorecycle}, 3-Tentacle Plant-{PreCycle}
+SH_B02 : 4-Spider-15-{Ignorecycle}, 3-Lantern Mouse-2-{Ignorecycle}, 8-Lantern Mouse-1-{Ignorecycle}, 4-Tentacle Plant-{PreCycle}
+SH_B03 : 3-Lantern Mouse-1-{Ignorecycle}, 2-Lantern Mouse-2-{Ignorecycle}, 2-White-{PreCycle}
+SH_A19 : 2-Spider-15-{Ignorecycle}, 2-Spider-15-{Ignorecycle}
+SH_B10 : 4-Tentacle Plant-{Ignorecycle}
+SH_GOR01 : 3-Spider-2-{Ignorecycle}, 4-Spider-2-{Ignorecycle}
+SH_CURVE : 3-Lantern Mouse-5-{Ignorecycle}, 2-Spider-8-{Ignorecycle}
+SH_KELP : 4-Tentacle Plant-{Ignorecycle}, 6-Spider-10-{Ignorecycle}
+SH_OVERHEAD : 5-Big Spider-1-{Ignorecycle}
+SH_HALL : 6-Eggbug-{Ignorecycle}, 7-Big Spider-1-{Ignorecycle}, 8-Big Spider-1-{Ignorecycle}, 9-Big Spider-1-{Ignorecycle}
+SH_C02 : 4-Tentacle Plant-{PreCycle}
+SH_A25 : 2-White-{PreCycle}
+SH_C12 : 2-White-{PreCycle}
+
+(X-Red,Artificer,Spear,Inv)SH_A14 : 3-Lantern Mouse-2-{Ignorecycle}
+(Red,Artificer,Spear,Inv)SH_A14 : 3-Lantern Mouse-2-{Ignorecycle}, 4-Dropbug-{Ignorecycle}
+(X-Rivulet,Red,Artificer,Spear,Inv)SH_C03 : 4-Spider-10-{Ignorecycle}
+(Rivulet)SH_C03 : 4-Spider-10-{Ignorecycle}, 5-SpitterSpider-{Ignorecycle}, 7-Spider-20-{Ignorecycle}
+(Red,Artificer,Spear,Inv)SH_C03 : 4-Spider-10-{Ignorecycle}, 5-SpitterSpider-{Ignorecycle}, 7-Spider-30-{Ignorecycle}
+(X-Rivulet,Red,Artificer,Spear,Inv)SH_C01 : 4-Lantern Mouse-2-{Ignorecycle}, 5-Lantern Mouse-2-{Ignorecycle}, 6-Tentacle Plant-{PreCycle}
+(Rivulet,Red,Artificer,Spear,Inv)SH_C01 : 4-Lantern Mouse-2-{Ignorecycle}, 5-Lantern Mouse-2-{Ignorecycle}, 6-SpitterSpider-{Ignorecycle}, 6-Tentacle Plant-{PreCycle}
+(X-Yellow,Rivulet,Red,Artificer,Spear,Inv)SH_B06 : 3-Spider-10-{Ignorecycle}, 3-Spider-10-{Ignorecycle}, 4-Spider-20-{Ignorecycle}, 5-Spider-20-{Ignorecycle}
+(Yellow)SH_B06 : 3-Spider-10-{Ignorecycle}, 4-Spider-10-{Ignorecycle}, 4-Spider-20-{Ignorecycle}, 5-Spider-20-{Ignorecycle}
+(Rivulet)SH_B06 : 3-Spider-15-{Ignorecycle}, 4-Spider-20-{Ignorecycle}, 4-BigSpider-2-{Ignorecycle}, 5-BigSpider-{Ignorecycle}
+(Red,Artificer,Spear)SH_B06 : 3-Spider-10-{Ignorecycle}, 4-Spider-10-{Ignorecycle}, 5-Spider-20-{Ignorecycle}, 5-Spider-20-{Ignorecycle}, 4-BigSpider-2-{Ignorecycle}, 5-BigSpider-{Ignorecycle}
+(X-Rivulet,Red,Artificer,Spear,Inv)SH_B07 : 3-Spider-15-{Ignorecycle}
+(Rivulet)SH_B07 : 3-Spider-15-{Ignorecycle}, 2-BigSpider-{Ignorecycle}, 4-Spider-5-{Ignorecycle}
+(Red,Artificer,Spear,Inv)SH_B07 : 3-Spider-15-{Ignorecycle}, 2-BigSpider-{Ignorecycle}, 4-Spider-5-{Ignorecycle}
+(X-Rivulet,Inv)SH_A09 : 4-Lantern Mouse-{Ignorecycle}, 5-Lantern Mouse-{Ignorecycle}
+(Rivulet,Inv)SH_A09 : 4-Lantern Mouse-{Ignorecycle}, 5-BigSpider-2-{Ignorecycle}
+(X-Gourmand,Red,Artificer,Spear,Inv)SH_E02 : 4-Tentacle Plant-{Ignorecycle}, 6-Tentacle Plant-{Ignorecycle}
+(Gourmand,Red,Artificer,Spear)SH_E02 : 4-Tentacle Plant-{Ignorecycle}, 6-Tentacle Plant-{Ignorecycle}, 3-Centipede-{0.25}-{Ignorecycle}, 3-Centipede-{0.2}-{Ignorecycle}, 3-Centipede-{0.4}-{Ignorecycle}, 3-Centipede-{0.35}-{Ignorecycle}
+(X-Red,Artificer,Spear,Inv)SH_H01 : 4-Small Centipede-3-{Ignorecycle}
+(Red,Artificer,Spear)SH_H01 : 4-Small Centipede-3-{Ignorecycle}, 4-Centipede-{0.65}-{Ignorecycle}
+(Inv)SH_H01 : 4-Small Centipede-3-{Ignorecycle}, 4-RedCentipede-{Ignorecycle}
+
+(X-Rivulet,Red,Artificer,Spear,Inv)SH_D01 : 3-Pink, 3-White-{Night}
+(Rivulet)SH_D01 : 3-Black-{Ignorecycle}
+(X-Rivulet,Red,Artificer,Spear,Inv)SH_C09 : 2-Spider-5-{Ignorecycle}, 3-Spider-5-{Ignorecycle}, 4-Spider-15-{Ignorecycle}, 5-Spider-10-{Ignorecycle}
+(Rivulet)SH_C09 : 2-Spider-5-{Ignorecycle}, 3-Spider-5-{Ignorecycle}, 4-Spider-15-{Ignorecycle}, 5-Spider-10-{Ignorecycle}
+(Red,Artificer,Spear)SH_C09 : 2-Spider-5-{Ignorecycle}, 3-Spider-10-{Ignorecycle}, 4-Spider-15-{Ignorecycle}, 5-Spider-15-{Ignorecycle}, 3-BigSpider-{Ignorecycle}
+(X-Red,Artificer,Spear,Inv)SH_C05 : 2-Lantern Mouse-{Ignorecycle}, 3-Lantern Mouse-{Ignorecycle}, 5-Lantern Mouse-{Ignorecycle}, 6-Lantern Mouse-{Ignorecycle}, 4-Spider-15-{Ignorecycle}
+(Red,Artificer,Spear)SH_C05 : 2-Lantern Mouse-{Ignorecycle}, 3-Lantern Mouse-{Ignorecycle}, 5-Lantern Mouse-{Ignorecycle}, 6-BigSpider-{Ignorecycle}, 4-Spider-20-{Ignorecycle}
+(Inv)SH_C05 : 2-Lantern Mouse, 3-Lantern Mouse-{Ignorecycle}, 5-Lantern Mouse-{Ignorecycle}, 6-SpitterSpider-{Ignorecycle}, 4-Spider-20-{Ignorecycle}
+(X-Red,Artificer,Spear,Inv)SH_C04 : 8-Lantern Mouse-2-{Ignorecycle}, 5-Lantern Mouse-1-{Ignorecycle}, 6-Lantern Mouse-{Ignorecycle}, 7-Spider-20-{Ignorecycle}
+(Red,Artificer,Spear)SH_C04 : 8-Lantern Mouse-2-{Ignorecycle}, 5-Lantern Mouse-2-{Ignorecycle}, 6-Dropbug-{Ignorecycle}, 7-Spider-20-{Ignorecycle}
+(Red,Artificer,Spear,Inv)SH_A15 : 4-Dropbug-{Ignorecycle}
+(Rivulet,Red,Artificer,Spear,Inv)SH_B13 : 3-BigSpider-{Ignorecycle}, 3-Spider-10-{Ignorecycle}
+
+(X-Yellow)SH_HELPOUT : 3-Spider-15-{Ignorecycle}
+(Yellow)SH_HELPOUT : 3-Spider-5-{Ignorecycle}
+(Rivulet)SH_E03RIV : 4-Yellow-2, 5-Yellow-2, 4-Yellow-2-{Night}, 5-Yellow-2-{Night}
+(Rivulet)SH_E04RIV : 2-Yellow-2, 3-Yellow-1, 2-Yellow-2-{Night}, 3-Yellow-1-{Night}
+
+END CREATURES
+[END MERGE]

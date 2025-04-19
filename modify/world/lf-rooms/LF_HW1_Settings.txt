@@ -1,0 +1,7 @@
+[MERGE]
+
+Effects: DayNight-0.2826087-261-180, Dawn-1-287-16,  
+DangerType: None
+PlacedObjects: DayNightSettings><1518.278><388.448><5~8.660254~76~10, DawnData><720.3826><273.5196><-233.0149~-99.36407~3,
+
+[ENDMERGE]

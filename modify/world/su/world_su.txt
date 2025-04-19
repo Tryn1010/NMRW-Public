@@ -1,0 +1,146 @@
+[MERGE]
+CREATURES
+//all
+SU_B11 : 4-CicadaB-{Ignorecycle}, 5-CicadaA-{Ignorecycle}, 4-SpitterSpider-{Night}, 5-BigSpider-{Night}
+SU_B02 : 4-CicadaB-{Ignorecycle}, 5-CicadaB-{Ignorecycle}, 4-MotherSpider-{Night}, 5-BigSpider-3-{Night}
+SU_B06 : 6-CicadaB-{Ignorecycle}, 7-CicadaB-{Ignorecycle}, 6-BigSpider-2-{Night}, 7-BigSpider-2-{Night}
+SU_A07 : 4-Green, 5-Pink, 4-Yellow-3-{Night}, 5-Yellow-3-{Night}
+
+//white
+(White)OFFSCREEN : 0-Scavenger-5, 0-Scavenger-8-{Night}, 0-Vulture-2-{Night}, 0-KingVulture-{Night}
+(White)SU_C02 : 5-Pink, 2-BigNeedleWorm-{Ignorecycle}, 3-SmallNeedleWorm-3-{Ignorecycle}, 5-White-2-{Night}, 5-Cyan-2-{Night}
+(White)SU_B12 : 2-Yellow-1-{Night}
+
+//white and yellow
+(White,Yellow)SU_B04 : 3-Pink, 4-Green, 3-White-2-{Night}, 4-Red-{Night}
+(White,Yellow)SU_B05 : 4-Green, 4-White-{Night}
+(White,Yellow)SU_B01 : 6-Mimic-{24}
+(White,Yellow)SU_A10 : 2-Mimic-{21}, 3-Green, 3-Yellow-4-{Night}
+(White,Yellow)SU_B07 : 3-Yellow-3-{Night}
+
+//yellow
+(Yellow)OFFSCREEN : 0-Scavenger-4, 0-Scavenger-8-{Night}
+(Yellow)SU_A20 : 6-Small Centipede-2, 6-BigSpider-3-{Night}
+(Yellow)SU_A04 : 4-Pink, 2-CicadaB-2-{Ignorecycle}, 3-CicadaB-{Ignorecycle}, 4-SpitterSpider-2-{Night}
+(Yellow)SU_C02 : 3-SmallNeedleWorm-3-{Ignorecycle}, 5-Pink, 4-BigSpider-2-{Night}
+
+//red
+(Red)OFFSCREEN : 0-KingVulture-1, 0-Vulture-2, 0-Scavenger-6, 0-Scavenger-8-{Night}, 0-Vulture-2-{Night}, 0-KingVulture-2-{Night}
+(Red)SU_B09 : 4-DropBug-2-{Ignorecycle}, 4-DropBug-2-{Night}, 4-White-2-{Night}
+(Red)SU_A17 : 2-White, 2-Cyan-2-{Night}
+(Red)SU_A20 : 6-Centipede-5-{Ignorecycle}, 6-RedCentipede-{Night}
+(Red)SU_B04 : 3-DropBug-2-{Ignorecycle}, 4-DropBug-{Ignorecycle}, 5-DropBug-{Ignorecycle}, 3-BigSpider-2-{Night}, 4-BigSpider-2-{Night}, 5-SpitterSpider-2-{Night}
+(Red)SU_B05 : 4-Pink, 4-White-2-{Night}
+(Red)SU_B01 : 6-TentaclePlant-{Ignorecycle}, 6-TentaclePlant-{Night}
+(Red)SU_A10 : 2-TentaclePlant-{Ignorecycle}, 3-Green, 2-TentaclePlant-{Night}, 3-Red-{Night}
+(Red)SU_A30 : 2-DropBug-{Ignorecycle}, 2-White-{Night}
+(Red)SU_B07 : 3-Green, 2-Yellow-3-{Night}
+(Red)SU_B02 : 7-Centipede-{Ignorecycle}, 8-Centipede-2-{Ignorecycle}, 8-RedCentipede-{Night}
+(Red)SU_A32 : 2-DropBug-{Ignorecycle}, 2-DropBug-{Ignorecycle}, 2-BigSpider-3-{Night}
+(Red)SU_B08 : 3-Red-{Ignorecycle}, 3-Yellow-4-{Night}
+(Red)SU_A13 : 4-DropBug-{Ignorecycle}, 3-CicadaB-{Ignorecycle}, 4-BigSpider-2-{Night}
+(Red)SU_C02 : 2-BigNeedleWorm-{Ignorecycle}, 3-SmallNeedleWorm-3-{Ignorecycle}, 3-BigSpider-3-{Night}
+
+//white and red
+(White,Red)SU_B12 : 2-Green, 2-Yellow-2-{Night}
+(White,Red)SU_A04 : 4-Pink-2, 2-CicadaB, 3-CicadaB, 4-White-2-{Night}, 2-BigSpider-2-{Night}, 3-SpitterSpider-{Night} 
+
+// MSC BELOW ------------
+
+(X-Saint)SU_B11 : 4-CicadaB-{Ignorecycle}, 5-CicadaA-{Ignorecycle}, 8-TentaclePlant-{PreCycle}, 8-TentaclePlant-{Night}, 4-SpitterSpider-{Night}, 5-BigSpider-2-{Night}
+(X-Red,Artificer,Spear,Saint,Inv)SU_B02 : 4-CicadaB-{Ignorecycle}, 5-CicadaB-{Ignorecycle}, 4-SpitterSpider-{Night}, 5-BigSpider-2-{Night}
+(Red,Artificer,Spear)SU_B02 : 4-CicadaB-{Ignorecycle}, 5-CicadaB-{Ignorecycle}, 7-Centipede-{Ignorecycle}, 8-Centipede-2-{Ignorecycle}, 8-RedCentipede-{Night}
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)SU_B06 : 4-Salamander-{PreCycle}, 6-CicadaB-{Ignorecycle}, 7-CicadaB-{Ignorecycle}, 4-Red-{Night}
+(Rivulet,Red,Artificer,Spear)SU_B06 : 4-White-{PreCycle}, 6-CicadaB-{Ignorecycle}, 7-CicadaB-{Ignorecycle}
+(X-Rivulet,Saint,Inv)SU_A07 : 4-Green, 5-Pink, 4-Cyan-{Night}, 5-White-{Night}
+(Rivulet)SU_A07 : 4-Caramel, 5-CicadaB-{Ignorecycle}-4, 3-CicadaA-{Ignorecycle}, 4-Yellow-3-{Night}
+
+(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)OFFSCREEN : 0-Scavenger-5, 0-Scavenger-3-{Night}
+(Gourmand)OFFSCREEN : 0-KingVulture-1, 0-Scavenger-5, 0-Scavenger-3-{Night}
+(Rivulet)OFFSCREEN : 0-Vulture-3, 0-Scavenger-10, 0-Scavenger-6-{Night}, 0-KingVulture-{Night}, 0-MirosVulture-2-{Night}
+(Artificer)OFFSCREEN : 0-Scavenger-15, 0-KingVulture-1, 0-Vulture-2, 0-Scavenger-9-{Night}, 0-KingVulture-2-{Night}, 0-MirosVulture-3-{Night}
+(Spear)OFFSCREEN : 0-Scavenger-9, 0-KingVulture-1, 0-Vulture-2, 0-Scavenger-6-{Night}, 0-KingVulture-2-{Night}, 0-MirosVulture-3-{Night}
+
+(X-Red,Artificer,Spear,Rivulet,Saint,Inv)SU_B07 : 3-TentaclePlant-{PreCycle}, 3-TentaclePlant-{Night}
+(Red,Artificer,Spear)SU_B07 : 3-Green, 3-TentaclePlant-{PreCycle}, 3-TentaclePlant-{Night}
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SU_C02 : 2-BigNeedleWorm, 3-SmallNeedleWorm-3, 5-Pink, 4-TentaclePlant-{PreCycle}, 4-TentaclePlant-{Night}
+(Yellow)SU_C02 : 3-SmallNeedleWorm-3, 5-Pink, 4-TentaclePlant-{PreCycle}, 4-TentaclePlant-{Night}
+(Rivulet)SU_C02 : 3-SmallNeedleWorm-3, 5-Caramel, 4-TentaclePlant-{PreCycle}, 4-TentaclePlant-{Night}
+(Red,Artificer,Spear)SU_C02 : 2-BigNeedleWorm, 3-SmallNeedleWorm-3, 4-TentaclePlant-{PreCycle}, 4-TentaclePlant-{Night}
+(X-Red,Artificer,Spear,Saint,Rivulet,Inv)SU_A30 : 2-Salamander-{PreCycle}, 2-White-2-{Night}
+(Red,Artificer,Spear)SU_A30 : 2-DropBug-{Ignorecycle}, 2-Eel-{PreCycle}, 2-White-2-{Night}
+(Rivulet)SU_A30 : 2-Eel-{PreCycle}, 2-White-2-{Night}
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)SU_A17 : 2-Salamander-2-{PreCycle}, 2-Yellow-2-{Night}
+(Rivulet)SU_A17 : 2-Cyan-2, 2-Eel-2-{PreCycle}, 2-Yellow-3-{Night}
+(Red,Artificer,Spear)SU_A17 : 2-White, 2-Eel-2-{PreCycle}, 2-CyanLizard-2-{Night}
+(X-White,Yellow,Saint)SU_CAVE01 : 4-Eel-{PreCycle}
+(X-Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)SU_B04 : 3-Pink, 4-Green, 5-Salamander-2-{PreCycle}
+(Gourmand)SU_B04 : 3-DropBug-2-{Ignorecycle}, 4-Green, 5-Salamander-2-{PreCycle}
+(Rivulet)SU_B04 : 3-Pink, 4-Caramel, 5-Salamander-2-{PreCycle}
+(Red,Artificer,Spear)SU_B04 : 3-DropBug-2-{Ignorecycle}, 4-DropBug-{Ignorecycle}, 5-DropBug-{Ignorecycle}, 5-Salamander-2-{PreCycle}
+
+(X-Rivulet,Saint,Inv,Red,Artificer,Spear)SU_A10 : 2-Mimic-{21}, 3-Green, 3-Yellow-4-{Night}
+(Rivulet)SU_A10 : 2-TentaclePlant-{Ignorecycle}, 3-Caramel, 3-Yellow-4-{Night}
+(Artificer,Spear)SU_A10 : 2-TentaclePlant-{Ignorecycle}, 3-Green, 3-Yellow-4-{Night}
+(Gourmand,Artificer,Spear)SU_B12 : 2-Green, 2-Cyan-2-{Night}
+(X-Yellow,Rivulet,Saint,Inv)SU_A04 : 4-Pink-2, 2-CicadaB-{Ignorecycle}, 3-CicadaB-{Ignorecycle}
+(Yellow)SU_A04 : 4-Green, 2-CicadaB-2-{Ignorecycle}, 3-CicadaB-{Ignorecycle}, 2-BigNeedleWorm-{Night}, 3-SmallNeedleWorm-3-{Night}
+(Rivulet)SU_A04 : 4-White, 2-CicadaB-2-{Ignorecycle}, 3-CicadaB-{Ignorecycle}, 2-BigNeedleWorm-{Night}, 3-SmallNeedleWorm-3-{Night}
+
+(Artificer,Spear)SU_B09 : 4-DropBug-2-{Ignorecycle}
+(Artificer,Spear)SU_A20 : 6-Centipede-5-{Ignorecycle}, 6-RedCentipede-{Night}
+(Rivulet)SU_A20 : 6-Small Centipede-2-{Ignorecycle}, 6-RedCentipede-{Night}
+(Gourmand)SU_B05 : 4-Green, 4-White-{Night}
+(Artificer,Spear)SU_B05 : 4-Pink, 4-Cyan-{Night}
+(Gourmand)SU_B01 : 6-Mimic-{24}
+(Rivulet,Inv)SU_B01 : 6-TentaclePlant-{Ignorecycle}
+(Artificer,Spear)SU_B01 : 6-TentaclePlant-{Ignorecycle}
+(Artificer,Spear,Inv)SU_A32 : 2-DropBug-{Ignorecycle}, 2-BigNeedleWorm-{Night}, 3-SmallNeedleWorm-3-{Night}
+(Gourmand,Artificer,Spear,Inv)SU_B08 : 3-Red-{Ignorecycle}
+(Artificer,Spear,Inv)SU_A13 : 4-DropBug-{Ignorecycle}, 3-CicadaB-{Ignorecycle}, 3-BigNeedleWorm-{Night}, 3-SmallNeedleWorm-3-{Night}
+
+(Rivulet,Saint)SU_A06 : 3-Caramel
+(Rivulet)SU_A02 : 3-Caramel
+(Rivulet)SU_A31 : 3-Centipede-2-{Ignorecycle}
+(Rivulet,Inv)SU_A40 : 2-Cyan-3-{Ignorecycle}
+
+// EXTENDED SU STUFF --------------------------
+
+SU_A07 : 5-Green, 6-Pink, 5-Cyan-{Night}, 6-White-{Night}
+SU_EX09 : 3-Green, 3-SpitterSpider-{Night}
+SU_EX12 : 3-CicadaA-2-{Ignorecycle}
+SU_EX13 : 2-CicadaA-{Ignorecycle}, 3-CicadaB-{Ignorecycle}
+SU_EX16 : 3-Eggbug-{Ignorecycle}
+SU_EX14 : 3-Pink, 4-Green
+SU_EX34 : 4-CicadaB-2-{Ignorecycle}
+(X-Yellow,White)SU_EX34 : 5-Blue-{Ignorecycle}
+SU_EX37 : 2-Mimic-{22}
+
+(X-Yellow,White)SU_B07 : 4-Green
+
+(White,Yellow)SU_B01 : 5-Mimic-{24}
+(X-Yellow,White)SU_B01 : 5-TentaclePlant-{Ignorecycle}
+
+(White,Yellow)SU_EX10 : 3-CicadaA-{Ignorecycle}, 4-CicadaB-{Ignorecycle}
+(X-Yellow,White)SU_EX10 : 3-CicadaB-2-{Ignorecycle}, 4-Dropbug-{Ignorecycle}
+
+(White)SU_EX03 : 3-Pink
+(X-Yellow,White)SU_EX02 : 2-Dropbug-{Ignorecycle}
+(X-Yellow,White)SU_EX22 : 2-Dropbug-2-{Ignorecycle}
+
+(Red,Artificer,Spear)SU_EX31 : 2-Dropbug-{Ignorecycle}
+(Yellow,Gourmand)SU_EX31 : 2-Eggbug-{Ignorecycle}
+
+(Yellow,White,Gourmand)LINEAGE : SU_EX32 : 7 : NONE-0.1, Pink-0.3, Blue-0.1, White-0
+(Red,Artificer,Spear)LINEAGE : SU_EX32 : 7 : Blue-0.1, White-0.5, Cyan-0
+(Rivulet)SU_EX32 : 7-White, 7-Black-{Night}
+(Rivulet)SU_EX32 : 7-Cyan, 7-Black-{Night}
+
+(Red,Artificer,Gourmand,Spear)SU_EX34 : 5-Blue, 5-Black-{Night}
+
+(Yellow,White,Red)SU_EX35 : 4-Eggbug-{Ignorecycle}, 4-BigNeedleWorm-{Night}, 4-SmallNeedleWorm-3-{Night}
+(X-Yellow,White,Red)SU_EX35 : 4-Small Centipede-3-{Ignorecycle}, 4-BigNeedleWorm-{Night}, 4-SmallNeedleWorm-3-{Night}
+
+
+END CREATURES
+[END MERGE]

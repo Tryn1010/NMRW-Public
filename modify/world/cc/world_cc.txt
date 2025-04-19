@@ -1,0 +1,107 @@
+[MERGE]
+CREATURES
+
+(X-White,Yellow,Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)OFFSCREEN : 0-Vulture-4, 0-Vulture-2-{Night}, 0-KingVulture-2-{Night}, 0-Scavenger-6, 0-Scavenger-6-{Night}, 0-Elite-{Night}
+(Gourmand)OFFSCREEN : 0-Vulture-3, 0-KingVulture-1, 0-Scavenger-4, 0-Vulture-2-{Night}, 0-KingVulture-2-{Night}, 0-Scavenger-6-{Night}, 0-Elite-2-{Night}
+(Rivulet)OFFSCREEN : 0-Vulture-5, 0-Scavenger-3, 0-Vulture-2-{Night}, 0-KingVulture-2-{Night}, 0-Scavenger-6-{Night}, 0-Elite-2-{Night}
+(Red)OFFSCREEN : 0-Vulture-4, 0-KingVulture-3, 0-Scavenger-7, 0-Elite-1, 0-MirosVulture-1-{Night}, 0-KingVulture-2-{Night}, 0-Scavenger-6-{Night}, 0-Elite-3-{Night}
+(Artificer)OFFSCREEN : 0-Vulture-3, 0-KingVulture-4, 0-Scavenger-15, 0-Elite-2, 0-MirosVulture-1-{Night}, 0-KingVulture-2-{Night}, 0-Scavenger-6-{Night}, 0-Elite-4-{Night}
+(Spear)OFFSCREEN : 0-Vulture-3, 0-KingVulture-4, 0-Scavenger-11, 0-Elite-2, 0-MirosVulture-1-{Night}, 0-KingVulture-2-{Night}, 0-Scavenger-6-{Night}, 0-Elite-3-{Night}
+CC_C05 : 3-Snail-2-{PreCycle}, 3-Blue-{Night}, 3-Salamander-{Night}
+
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)CC_A07 : 3-Mimic-{18}
+(Red,Artificer,Spear)CC_A07 : 2-DropBug, 3-Mimic-{18}, 2-DropBug-2-{Night}, 2-Red-{Night}
+(X-Red,Artificer,Spear,Inv,Saint)CC_C03 : 7-Garbage Worm-3, 7-TentaclePlant-{Night}
+(Red,Artificer,Spear)CC_C03 : 7-Garbage Worm-3, 5-BigSpider, 5-SpitterSpider-2-{Night}, 7-TentaclePlant-{Night}
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)CC_B14 : 3-Tube Worm, 4-Tube Worm
+(Rivulet)CC_B14 : 3-Tube Worm, 4-Tube Worm, 2-Cyan-2, 3-Centiwing, 2-Cyan-2-{Night}, 2-White-2-{Night}
+(Red,Artificer,Spear)CC_B14 : 3-Tube Worm, 4-Tube Worm, 2-BigNeedleWorm, 2-SmallNeedleWorm-4, 3-DropBug-2-{Night}
+
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)CC_B04 : 3-White, 3-Snail-2-{PreCycle}, 3-White-2-{Night}
+(Yellow)CC_B04 : 3-Blue, 3-Snail-2-{PreCycle}, 3-BigSpider-2-{Night}
+(Rivulet)CC_B04 : 3-Blue, 3-Centiwing, 4-Centiwing, 3-Snail-2-{PreCycle}, 3-BigSpider-2-{Night}
+(Red,Artificer,Spear)CC_B04 : 3-White, 4-BigNeedleWorm, 4-SmallNeedleWorm-2, 3-Snail-2-{PreCycle}, 3-SpitterSpider-2-{Night}
+(X-Yellow,Saint,Rivulet,Red,Artificer,Spear,Inv)CC_B05 : 2-Pink, 3-White, 4-TentaclePlant-{PreCycle}, 3-BigSpider-2-{Night}
+(Yellow,Saint)CC_B05 : 3-White, 4-TentaclePlant-{PreCycle}, 4-TentaclePlant-{Night}, 3-White-2-{Night}
+(Rivulet)CC_B05 : 3-Yellow-2, 4-TentaclePlant-{PreCycle}, 3-Yellow-3-{Night}, 3-Red-{Night}
+(Red,Artificer,Spear)CC_B05 : 2-DropBug, 3-White, 4-BigNeedleWorm, 4-SmallNeedleWorm-2, 4-TentaclePlant-{PreCycle}, 4-TentaclePlant-{Night}
+(X-Red,Artificer,Spear,Saint,Inv)CC_B11 : 3-Caramel, 3-red-{Night}
+(Red,Artificer,Spear,Saint)CC_B11 : 3-BigSpider-2, 3-BigSpider-2-{Night}, 3-MotherSpider-{Night}
+
+(X-Inv,Yellow,Rivulet,Saint)CC_B01 : 2-Blue, 3-White, 3-Snail-3-{PreCycle}, 3-White-2-{Night}
+(X-Inv,Yellow,Rivulet,Saint)CC_F01 : 4-Pink-2, 4-Snail-3-{PreCycle}, 4-Cyan-2-{Night}
+(X-Inv,Yellow,Rivulet,Saint)CC_B08 : 3-White, 2-Pink, 3-Cyan-2-{PreCycle}, 3-Cyan-2-{Night}
+(Yellow)CC_B01 : 2-Blue, 3-Snail-3-{PreCycle}, 3-BigSpider-2-{Night}
+(Yellow)CC_F01 : 4-Pink, 4-Snail-3-{PreCycle}, 4-BigSpider-2-{Night}
+(Yellow,Rivulet)CC_B08 : 3-Blue, 3-Cyan-2-{PreCycle}, 3-Cyan-2-{Night}
+(Rivulet)CC_F01 : 3-Centiwing, 4-Caramel, 4-Snail-3-{PreCycle}, 4-White-2-{Night}
+(Rivulet,Saint)CC_B01 : 2-Cyan-2, 3-Centiwing, 3-Snail-3-{PreCycle}, 2-White-2-{Night}
+
+(Artificer,Spear)CC_A15 : 4-Cyan-2, 4-Red-{Night}
+(Rivulet,Saint)CC_A15 : 3-Centiwing, 3-Cyan-2-{Night}
+(Red)CC_C11 : 4-Caramel, 4-White-2-{Night}, 4-Red-{Night}
+(Artificer,Spear)CC_C11 : 4-SpitterSpider, 4-SpitterSpider-2-{Night}
+(Rivulet,Saint)CC_C04 : 3-Centiwing-2, 3-TentaclePlant-{PreCycle}, 3-TentaclePlant-{Night}
+(Red,Artificer,Spear,Inv)CC_C04 : 3-BigNeedleWorm, 3-SmallNeedleWorm-3, 3-TentaclePlant-{PreCycle}
+(Rivulet)CC_C08 : 3-Yellow-1, 4-Yellow-2, 5-Centiwing-2, 3-Yellow-2-{Night}, 4-Yellow-3-{Night}
+(Artificer,Spear)CC_C08 : 3-Cyan, 3-Red-{Night}
+(X-Saint)CC_C07 : 2-Snail-3-{PreCycle}
+
+(X-Yellow,Rivulet,Saint)CC_SHAFT01x : 9-Garbage Worm-3, 2-Eel-{PreCycle}, 9-TentaclePlant-{Night}, 2-Eel-{Night}
+(X-Yellow,Rivulet,Saint,Inv)CC_SHAFT02 : 5-BigSpider-2, 5-BigSpider-3-{Night}, 5-MotherSpider-2-{Night}
+(X-Yellow,Rivulet,Saint,Inv)CC_SUMP01 : 5-MotherSpider, 6-TentaclePlant, 7-Eel, 5-SpitterSpider-2-{Night}
+(X-Yellow,Rivulet,Saint,Inv)CC_STRAINER01 : 2-Small Centipede-5, 3-Centipede-2, 3-RedCentipede-{Night}
+(X-Yellow,Rivulet,Saint)CC_STRAINER02 : 3-Mimic-{12}
+(X-Yellow,Rivulet,Saint)CC_STRAINER03 : 2-Snail-3
+(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)CC_SUMP03 : 4-Mimic-{18}, 7-MotherSpider-1, 8-Mimic-{14}, 12-Snail-5, 13-Eel, 7-SpitterSpider-2-{Night}
+(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)CC_SUMP04 : 3-Eel, 4-Snail-2, 3-BigSpider-2-{Night}
+(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)CC_SUMP05 : 2-Mimic-{19}, 3-Mimic-{21}, 5-Centipede-3, 11-Small Centipede-2, 11-Centipede-2, 11-White-2-{Night}
+(X-Yellow,Rivulet,Saint,Inv)CC_OUTPUT : 10-Small Centipede-7, 11-Snail-2, 11-White-{Night}
+(Red,Artificer,Spear)CC_SUMP03 : 4-Mimic-{18}, 7-MotherSpider-2, 8-Mimic-{14}, 12-Snail-5, 13-Eel, 7-SpitterSpider-{Night}
+(Red,Artificer,Spear,Inv)CC_SUMP04 : 3-Eel, 4-Snail-6, 3-Eel-2-{Night}
+(Red,Artificer,Spear)CC_SUMP05 : 2-Mimic-{19}, 3-Mimic-{21}, 4-DropBug-2, 5-Centipede-3, 11-Small Centipede-2, 11-Centipede-2, 4-DropBug-2-{Night}
+(Yellow,Rivulet)CC_SHAFT01x : 9-Garbage Worm-2, 2-Eel-{PreCycle}, 9-TentaclePlant-{Night}
+(Yellow,Rivulet,Saint)CC_SHAFT02 : 5-BigSpider-1, 5-MotherSpider-{Night}
+(Yellow,Rivulet)CC_SUMP01 : 5-BigSpider, 6-TentaclePlant, 7-Eel, 6-TentaclePlant-{Night}
+(Yellow,Rivulet,Saint)CC_STRAINER01 : 2-Small Centipede-3, 3-Centipede-3, 3-RedCentipede-{Night}
+(Yellow,Rivulet,Saint)CC_STRAINER02 : 3-Mimic-{12}
+(Yellow,Rivulet)CC_STRAINER03 : 2-Snail-3
+(Yellow,Rivulet)CC_SUMP03 : 4-Mimic-{18}, 7-MotherSpider-1, 8-Mimic-{14}, 12-Snail-5, 13-Eel, 7-MotherSpider-2-{Night}
+(Yellow,Rivulet)CC_SUMP04 : 3-Eel-2, 3-SpitterSpider-{Night}
+(Yellow,Rivulet,Saint)CC_SUMP05 : 2-Mimic-{19}, 3-Mimic-{21}, 5-Centipede-3, 11-Small Centipede-2, 11-Centipede-2, 2-Eel-{Night}
+(Yellow,Rivulet,Saint)CC_OUTPUT : 10-Small Centipede-3, 11-Snail-2, 10-Centipede-{Night}
+
+//red
+(Red)CC_A15 : 4-Cyan-2, 4-White-2-{Night}
+(Red)CC_B11 : 2-SpitterSpider-{Ignorecycle}, 3-BigSpider-2-{Ignorecycle}, 3-MotherSpider-{Night}
+(Red)CC_C11 : 4-SpitterSpider-{Ignorecycle}, 4-MotherSpider-{Night}
+(Red)CC_C03 : 4-BigSpider-{Ignorecycle}, 4-SpitterSpider-{Night}
+(Red)CC_A07 : 2-DropBug, 2-BigSpider-2-{Night}
+(Red)CC_C04 : 3-BigNeedleWorm, 3-SmallNeedleWorm-3
+(Red)CC_B05 : 2-DropBug, 3-White, 4-BigNeedleWorm, 4-SmallNeedleWorm-2
+(Red)CC_B14 : 2-BigNeedleWorm, 2-SmallNeedleWorm-4, 2-BigSpider-{Night}
+(Red)CC_C08 : 3-Cyan, 3-White-2-{Night}, 3-Green-{Night}
+(Red)CC_B04 : 3-White, 4-BigNeedleWorm, 4-SmallNeedleWorm-2, 3-Cyan-2-{Night}, 4-MotherSpider-{Night}
+
+//yellow
+(Yellow)OFFSCREEN : 0-Vulture-3, 0-Scavenger-5
+(Yellow)CC_B11 : 2-Green, 2-Blue-{Night}
+(Yellow)CC_B04 : 3-Blue, 3-White-{Night}
+(Yellow)CC_B05 : 3-White, 3-Blue-{Night}
+(Yellow)CC_B01 : 2-Blue, 2-White-{Night}
+(Yellow)CC_F01 : 4-Pink, 4-White-{Night}
+(Yellow)CC_B08 : 3-Blue, 3-Pink-{Night}
+
+//white
+(White)OFFSCREEN : 0-Vulture-4, 0-Scavenger-6, 0-KingVulture-{Night}, 0-Scavenger-10-{Night}, 0-Elite-2-{Night}
+(White)CC_B04 : 3-White, 3-Cyan-{Night}
+(White)CC_B05 : 2-Pink, 3-White, 3-Cyan-2-{Night}, 2-White-{Night}
+(White)CC_C08 : 3-Green-{Night}
+
+//all
+CC_A07 : 3-Mimic-{18}
+CC_C03 : 7-Garbage Worm-3, 7-TentaclePlant-{Night}
+CC_B14 : 3-Tube Worm, 4-Tube Worm, 7-TentaclePlant-{Night}
+
+END CREATURES
+[END MERGE]

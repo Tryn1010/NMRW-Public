@@ -1,0 +1,46 @@
+[MERGE]
+CREATURES
+OFFSCREEN : 0-Scavenger-11-{Ignorecycle}, 0-Leviathan-3-{Ignorecycle}
+(Rivulet)OFFSCREEN : 0-Miros Vulture-4-{Ignorecycle}
+(White,Yellow,Red,Gourmand)OFFSCREEN : 0-Vulture-3-{Ignorecycle}, 0-Vulture-{AlternateForm}-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_M03 : 2-Snail-2-{Ignorecycle}, 4-Snail-3-{Ignorecycle}
+MS_CROSSOVER02 : 7-Leech-10-{Ignorecycle}
+MS_I01 : 4-Jetfish-3-{Ignorecycle}, 5-Aquapede-{Ignorecycle}
+MS_I02 : 4-Jetfish-2-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_I08 : 5-Snail-2-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_I11 : 4-Eel-{Ignorecycle}
+MS_I12 : 4-Leech-10-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_MEM01 : 2-Tentacle Plant-{Ignorecycle}, 3-Jetfish-{Ignorecycle}, 4-Sea Leech-6-{Ignorecycle}
+(X-White,Yellow,Red,Rivulet,Gourmand)MS_MEM01 : 4-Sea Leech-6-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_LAB12 : 4-Snail-2-{Ignorecycle}, 5-CicadaA-1-{Ignorecycle}, 6-CicadaB-2-{Ignorecycle}
+(X-White,Yellow,Red,Rivulet,Gourmand)MS_LAB12 : 5-CicadaA-1-{Ignorecycle}, 6-CicadaB-2-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_LAB1 : 4-Tentacle Plant-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_LAB6 : 5-Eel-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_LAB9 : 4-Snail-3-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_LAB13 : 5-Snail-2-{Ignorecycle}, 6-CicadaB-3-{Ignorecycle}, 7-CicadaA-2-{Ignorecycle}
+MS_MEM04 : 4-Tentacle Plant-{Ignorecycle}, 5-Tentacle Plant-{Ignorecycle}, 6-Tentacle Plant-{Ignorecycle}, 7-Jetfish-3-{Ignorecycle}
+MS_VENT01 : 8-Tentacle Plant-{Ignorecycle}, 12-Tentacle Plant-{Ignorecycle}, 10-Jetfish-{Ignorecycle}
+MS_CORTEX : 11-Jetfish-2-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_FARSIDE : 7-Jetfish-{Ignorecycle}, 8-Jetfish-{Ignorecycle}, 9-Sea Leech-13-{Ignorecycle}
+(X-White,Yellow,Red,Rivulet,Gourmand)MS_FARSIDE : 9-Sea Leech-13-{Ignorecycle}
+(Rivulet,Saint)MS_VENT08 : 3-Eel-{Ignorecycle}, 3-Aquapede-{Ignorecycle}, 8-Jetfish-3-{Ignorecycle}
+(X-Rivulet,Saint)MS_VENT08 : 8-Jetfish-3-{Ignorecycle}
+MS_VENT09 : 7-Aquapede-{Ignorecycle}
+MS_VENT17 : 3-Leech-3-{Ignorecycle}, 7-Leech-5-{Ignorecycle}
+(White,Yellow,Red,Rivulet,Gourmand)MS_EAST03 : 5-Snail-3-{Ignorecycle}
+MS_MEMOUTSIDE : 5-Tentacle Plant-{Ignorecycle}, 7-Sea Leech-11-{Ignorecycle}, 8-Jetfish-{Ignorecycle}, 9-Sea Leech-5-{Ignorecycle}
+MS_MEM05 : 2-Snail-2-{Ignorecycle}, 3-Snail-3-{Ignorecycle}
+(Rivulet,Saint)MS_ARTERY07 : 5-Aquapede-{Ignorecycle}
+(White,Yellow,Red,Saint,Gourmand)MS_bitteraerie1 : 5-White-{Winter}, 5-BigSpider-4-{Winter}-{Night}
+(White,Yellow,Red,Gourmand)MS_bittervents : 3-White-{Winter}-{Ignorecycle}, 3-BigSpider-4-{Winter}-{Night}
+(Rivulet)MS_bittervents : 3-White-{Winter}-{Ignorecycle}, 3-BigSpider-4-{Winter}-{Night}
+(White,Yellow,Red,Gourmand)MS_bitteraeriepipeu : 4-CicadaB-3-{Ignorecycle}, 4-CicadaA-2-{Ignorecycle}, 3-BigSpider-4-{Winter}-{Night}, 3-SpitterSpider-{Winter}-{Night}
+(White,Yellow,Red,Gourmand)MS_bitteraerie5 : 2-Blue-{Winter}, 2-BigSpider-2-{Winter}-{Night}, 2-MotherSpider-{Winter}-{Night}
+(White,Yellow,Red,Gourmand)MS_splitsewers : 11-Tentacle Plant-{Ignorecycle}
+(White,Yellow,Red,Gourmand)MS_bitterpipe : 3-Eel-{Ignorecycle}, 3-Red-{Winter}-{Night}
+(White,Yellow,Red,Gourmand)MS_bitterentrance : 5-Tentacle Plant-{Ignorecycle}, 10-Blue-{Winter}, 9-CicadaB-3-{Ignorecycle}, 9-CicadaA-2-{Ignorecycle}, 9-BigSpider-2-{Winter}-{Night}, 9-SpitterSpider-2-{Winter}-{Night}
+(Rivulet)MS_bitterentrance : 10-Blue-{Winter}-{Ignorecycle}, 10-BigSpider-3-{Winter}-{Night}
+(White,Yellow,Red,Gourmand)MS_COMMS : 2-Yellow-4-{Ignorecycle}, 6-Yellow-2-{Ignorecycle}, 2-Yellow-2-{Winter}-{Night}
+(White,Yellow,Red,Gourmand)MS_X02 : 3-Tentacle Plant-{Ignorecycle}
+END CREATURES
+[END MERGE]

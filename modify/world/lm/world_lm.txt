@@ -1,0 +1,51 @@
+[MERGE]
+CREATURES
+//only in the rain
+LM_D02 : 5-Jet Fish-{PreCycle}, 5-Jet Fish-2-{Night}
+LM_C05 : 3-Jet Fish-{PreCycle}, 3-Jet Fish-2-{Night}
+LM_TUNNELA : 8-Eel-{PreCycle}, 8-Jet Fish-2-{Night}, 8-Eel-{Night}
+
+//main creatures
+OFFSCREEN : 0-Vulture-3, 0-KingVulture-2, 0-Scavenger-8, 0-Vulture-1-{Night}, 0-KingVulture-3-{Night}, 0-MirosVulture-{Night}, 0-Scavenger-4-{Night}
+LM_ECNIUS03 : 2-Snail-{Ignorecycle}, 3-Snail-{Ignorecycle}, 2-Eel-{Night}, 3-Jet Fish-2-{Night}
+LM_F01 : 3-Salamander, 4-Mimic-{15}, 5-Snail-4-{Ignorecycle}, 6-Leech-3-{Ignorecycle}, 7-Leech-5-{Ignorecycle}, 8-Leech-8-{Ignorecycle}, 12-Garbage Worm-3-{Ignorecycle}, 8-Tentacle Plant-{PreCycle}, 3-Eel-2-{Night}, 5-BigSpider-2-{Night}, 3-SpitterSpider-{Night}
+LM_A02 : 3-Tentacle Plant, 4-Salamander, 4-Eel-{Night}, 4-Cyan-{Night}, 4-BigSpider-2-{Night}, 4-SpitterSpider-{Night}
+LM_D06 : 3-Salamander, 5-Salamander, 6-Tentacle Plant-{Ignorecycle}, 16-Garbage Worm-3, 7-Jetfish-{Ignorecycle}, 7-Salamander, 7-White-{Night}, 5-Cyan-{Night}, 3-Eel-{Night}, 5-BigSpider-2-{Night}, 7-MotherSpider-{Night}
+LM_D03 : 5-Jetfish-2-{Ignorecycle}, 7-JetFish-2-{PreCycle}, 5-Eel-{Night}, 7-JetFish-3-{Night}
+LM_E01 : 4-Jetfish-2-{Ignorecycle}, 4-Eel-{Night}
+LM_C10 : 2-Jetfish-{Ignorecycle}, 2-Eel-{Night}
+LM_C06 : 4-Jetfish-{Ignorecycle}, 4-Jetfish-2-{Night}
+LM_C02 : 4-CicadaB-3-{Ignorecycle}, 4-CicadaA-2-{Ignorecycle}, 5-Salamander, 6-Salamander, 7-Snail-2-{Ignorecycle}, 4-Eel-{PreCycle}, 5-Eel-{Night}, 6-Salamander-2-{Night}
+LM_F02 : 4-CicadaB-2-{Ignorecycle}, 5-CicadaA-2-{Ignorecycle}, 10-Leech-9-{Ignorecycle}, 11-Leech-6-{Ignorecycle}, 12-Leech-7-{Ignorecycle}, 14-Leech-9-{Ignorecycle}, 15-Jetfish-2-{Ignorecycle}, 16-Leech-19-{Ignorecycle}, 19-Eel-{PreCycle}, 10-Eel-{Night}, 12-Eel-{Night}, 15-Jetfish-3-{Night}
+LM_C11 : 2-Sea Leech-4-{Ignorecycle}, 3-Sea Leech-3-{Ignorecycle}, 4-Tentacle Plant-{Ignorecycle}, 5-Tentacle Plant-{Ignorecycle}, 4-SpitterSpider-{Night}, 5-MotherSpider-{Night}
+LM_A03 : 2-Snail-2-{Ignorecycle}, 3-Snail-3-{Ignorecycle}, 2-Eel-{Night}, 3-Salamander-{Night}, 2-Snail-2-{Night}, 3-Snail-2-{Night}
+LM_D01 : 3-Sea Leech-7-{Ignorecycle}, 5-Sea Leech-7-{Ignorecycle}, 4-Eel-{PreCycle}, 4-Eel-{Night}
+LM_D05 : 7-Snail-{Ignorecycle}, 8-Snail-{Ignorecycle}, 7-Eel-{Night}, 8-Salamander-{Night}
+LM_B02 : 4-Tentacle Plant-{Ignorecycle}, 4-TentaclePlant-{Night}
+LM_E02 : 2-Sea Leech-7-{Ignorecycle}, 3-Salamander-{Night}
+LM_A10 : 3-Sea Leech-6-{Ignorecycle}, 3-Eel-{Night}
+LM_D04 : 5-Dropbug-{Ignorecycle}, 4-Salamander-{Ignorecycle}, 12-Mimic-{19}, 13-Leech-10-{Ignorecycle}, 14-Mimic-{27}, 16-Leech-15-{Ignorecycle}, 4-Red-{Night}, 5-BigSpider-2-{Night}
+LM_H03 : 4-Tentacle Plant-{Ignorecycle}, 6-Tentacle Plant-{Ignorecycle}, 2-Blue, 2-Cyan-{Night}
+LM_TOWERSIDE : 4-White, 6-Snail-3-{Ignorecycle}, 4-Cyan-{Night}, 4-BigSpider-2-{Night}
+LM_MIRRORSIDE : 4-Snail-{Ignorecycle}, 6-Blue, 6-White-{Night}, 6-BigSpider-{Night}
+LM_SIDESWAMP : 2-Tentacle Plant-{Ignorecycle}, 6-Salamander, 6-Eel-{Night}, 6-BigSpider-{Night}
+
+LM_BRIDGE02 : 2-White-1, 5-Blue-1, 2-Cyan-{Night}, 5-Cyan-{Night}
+(Spear)LM_BRIDGE03 : 2-DropBug-1-{Ignorecycle}, 4-Cyan-2, 4-Red-{Night}, 2-BigSpider-{Night}
+LM_EDGE02 : 3-Dropbug-{Ignorecycle}, 3-Snail-2-{PreCycle}, 5-Snail-3-{PreCycle}, 9-Yellow-3, 8-Yellow-2, 9-Yellow-3-{Night}, 8-Yellow-2-{Night}, 5-BigSpider-{Night}
+
+(Spear)LM_WALL02 : 10-White-1, 14-DropBug-1-{Ignorecycle}, 10-Cyan-1-{Night}, 14-SpitterSpider-{Night}
+(Spear)LM_WALL03 : 4-Blue, 4-MotherSpider-{Night}
+LM_TOWER01 : 5-Eggbug-{Ignorecycle}, 5-BigSpider-{Night}
+LM_TOWER04 : 3-CicadaB-4-{Ignorecycle}, 4-CicadaA-2-{Ignorecycle}, 4-Eel-{PreCycle}, 4-Eel-{Night}, 4-BigSpider-{Night}
+LM_TOWER11 : 2-Eggbug-{Ignorecycle}, 3-CicadaA-2-{Ignorecycle}, 3-BigSpider-{Night}, 2-Cyan-{Night}, 3-White-{Night}
+LM_TOWER08 : 6-White, 8-Dropbug-{Ignorecycle}, 6-Cyan-{Night}, 8-BigSpider-{Night}
+LM_TOWER03 : 6-Snail-3-{Ignorecycle}, 3-Eggbug-{Ignorecycle}, 6-BigSpider-{Night}
+LM_TOWER07 : 3-Blue-{Mean:0.4}, 3-SpitterSpider-{Night}
+LM_TOWER02 : 2-Cyan-2, 3-CicadaB-3-{Ignorecycle}, 4-CicadaA-3-{Ignorecycle}, 3-SpitterSpider-{Night}, 2-Cyan-{Night}, 4-White-{Night}
+(Artificer)LM_B04 : 4-CicadaB-4-{Ignorecycle}, 5-CicadaA-2-{Ignorecycle}, 4-MotherSpider-{Night}, 5-BigSpider-{Night}
+LM_TOWER05 : 4-Tentacle Plant-{Ignorecycle}, 7-Snail-2-{Ignorecycle}, 7-BigSpider-{Night}
+LM_TOWER13 : 10-Blue, 3-CicadaB-2-{Ignorecycle}, 6-CicadaA-3-{Ignorecycle}, 10-Cyan-{Night}, 3-BigSpider-{Night}, 6-SpitterSpider-{Night}
+
+END CREATURES
+[END MERGE]

@@ -1,0 +1,165 @@
+[MERGE]
+CREATURES
+//all
+HI_B12 : 2-Blue, 2-White-{Night}, 2-LanternMouse-{Night}
+HI_A18 : 2-Green, 2-SpitterSpider-{Night}, 2-LanternMouse-{Night}
+HI_A06 : 2-Green, 2-BigSpider-3-{Night}
+HI_A19 : 4-Garbage Worm-2-{Ignorecycle}, 2-White-{Night}, 4-LanternMouse-{Night}
+
+//white
+(White)OFFSCREEN : 0-Vulture-3, 0-Scavenger-6, 0-Vulture-2-{Night}, 0-KingVulture-3-{Night}, 0-Scavenger-6-{Night}
+(White)HI_B09 : 3-Green, 2-White-{Ignorecycle}, 3-BigSpider-2-{Night}, 2-Blue-{Night}
+(White)HI_B15 : 2-Small Centipede-3-{Ignorecycle}, 3-Centipede-{0.5}, 2-LanternMouse-{Night}, 3-Blue-{Night}
+(White)HI_B07 : 3-Pink, 2-Pink, 3-White-{Night}, 2-Cyan-2-{Night}, 3-LanternMouse-{Night}
+(White)HI_C05 : 3-Pink, 4-Pink, 3-BigSpider-2-{Night}, 4-Cyan-{Night}, 3-Cyan-{Night}
+
+//white and yellow
+(White,Yellow)HI_A04 : 2-Mimic-{18}
+(White,Yellow)HI_C11 : 3-Blue, 2-MotherSpider-{Night}, 2-White-{Night}, 3-LanternMouse-{Night}, 3-Eggbug-{Night}
+(White,Yellow)HI_C03 : 3-White, 3-BigSpider-2-{Night}, 3-Cyan-{Night}
+(White,Yellow)HI_B05 : 3-White, 3-BigSpider-2-{Night}, 3-White-{Night}
+(White,Yellow)HI_A16 : 4-Green, 2-Red-{Night}, 4-LanternMouse-{Night}, 4-Blue-{Night}
+(White,Yellow)HI_C04 : 5-Blue, 6-Snail-{Ignorecycle}, 7-Snail-2-{Ignorecycle}, 5-White-2-{Night}, 6-Salamander-{Night}, 7-Salamander-{Night}
+
+//yellow
+(Yellow)OFFSCREEN : 0-Vulture-1, 0-Scavenger-5, 0-Vulture-1-{Night}, 0-KingVulture-1-{Night}, 0-Scavenger-2-{Night}
+(Yellow)HI_B09 : 3-Green, 2-Eggbug-{Ignorecycle}, 3-White-{Night}, 2-LanternMouse-{Night}
+(Yellow)HI_B15 : 2-Small Centipede-3-{Ignorecycle}, 3-Centipede-{0.3}, 2-LanternMouse-{Night}
+(Yellow)HI_B07 : 3-Pink, 2-EggBug-{Ignorecycle}, 3-White-{Night}, 2-LanternMouse-{Night}
+(Yellow)HI_C05 : 3-EggBug-{Ignorecycle}, 4-Pink, 3-BigSpider-2-{Night}, 3-LanternMouse-{Night}
+
+//red
+(Red)OFFSCREEN : 0-Vulture-2, 0-KingVulture-1, 0-Scavenger-7, 0-Vulture-1-{Night}, 0-KingVulture-3-{Night}, 0-MirosVulture-2-{Night}, 0-Scavenger-5-{Night}
+(Red)HI_B09 : 3-Dropwig-{Ignorecycle}, 3-White, 3-SpitterSpider-{Night}, 3-Cyan-{Night}
+(Red)HI_B05 : 3-Dropwig-{Ignorecycle}, 3-BigSpider-2-{Night}, 3-Red-{Night}, 3-LanternMouse-{Night}
+(Red)HI_C11 : 3-Cyan, 3-BigSpider-3-{Night}, 3-SpitterSpider-{Night}
+(Red)HI_A16 : 4-Blue, 4-BigSpider-3-{Night}, 4-MotherSpider-{Night}
+(Red)HI_A17 : 3-Green, 3-Red-2-{Night}, 3-Cyan-{Night}, 3-LanternMouse-{Night}
+(Red)HI_B12 : 3-EggBug, 3-BigSpider-3-{Night}, 3-SpitterSpider-{Night}
+(Red)HI_B07 : 3-Pink-2, 2-EggBug, 3-BigSpider-3-{Night}, 3-MotherSpider-{Night}, 2-LanternMouse-{Night}, 3-Cyan-{Night}
+(Red)HI_A25 : 2-Dropbug-{Ignorecycle}, 2-LanternMouse-{Night}, 2-Centipede-{Night}, 2-Centipede-{Night}
+(Red)HI_B15 : 2-Small Centipede-2-{Ignorecycle}, 3-Centipede-{0.55}, 2-Centipede-{0.72}, 3-Centipede-{0.68}, 2-LanternMouse-{Night}, 3-RedCentipede-{Night}
+(Red)HI_C04 : 5-Cyan, 5-LanternMouse-{Night}, 5-LanternMouse-{Night}, 5-White-{Night}
+(Red)HI_B06 : 3-Cyan, 4-Red-{Ignorecycle}, 4-LanternMouse-{Night}, 4-BigSpider-2-{Night}, 3-White-{Night}
+
+(X-Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)OFFSCREEN : 0-Vulture-3, 0-Scavenger-6, 0-Scavenger-3-{Night}, 0-KingVulture-2-{Night}
+(Gourmand)OFFSCREEN : 0-Vulture-2, 0-KingVulture-2, 0-Scavenger-7, 0-Scavenger-5-{Night}, 0-KingVulture-3-{Night}, 0-MirosVulture-2-{Night}
+(Rivulet)OFFSCREEN : 0-Vulture-1, 0-Scavenger-5, 0-Scavenger-3-{Night}, 0-KingVulture-2-{Night}, 0-MirosVulture-{Night}
+(Artificer)OFFSCREEN : 0-Vulture-3, 0-KingVulture-1, 0-Scavenger-14, 0-Scavenger-5-{Night}, 0-KingVulture-3-{Night}, 0-MirosVulture-2-{Night}
+(Spear)OFFSCREEN : 0-Vulture-1, 0-KingVulture-2, 0-Scavenger-12, 0-Scavenger-5-{Night}, 0-KingVulture-3-{Night}, 0-MirosVulture-2-{Night}
+
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)HI_B12 : 2-Blue, 2-White-{Night}, 2-LanternMouse-{Night}
+(Red,Artificer,Spear)HI_B12 : 2-Blue, 3-EggBug, 2-White-2-{Night}, 2-SpitterSpider-{Night}, 2-LanternMouse-{Night}, 3-Cyan-{Night}
+(X-Rivulet,Inv,Saint)HI_A18 : 2-Green, 2-TentaclePlant-{PreCycle}, 2-White-{Night}, 2-BigSpider-3-{Night}, 2-LanternMouse-{Night}
+(Rivulet)HI_A18 : 2-Caramel, 2-TentaclePlant-{PreCycle}, 2-Cyan-{Night}, 2-SpitterSpider-{Night}, 2-LanternMouse-{Night}
+(X-Yellow,Rivulet,Artificer,Spear,Saint,Inv)HI_A06 : 2-Caramel, 2-White-{Night}, 2-White-{Night}, 2-LanternMouse-{Night}
+(Yellow,Rivulet,Artificer,Spear)HI_A06 : 2-Green, 2-Cyan-2-{Night}, 2-BigSpider-3-{Night}, 2-LanternMouse-{Night}
+(X-Saint)HI_A19 : 4-Garbage Worm-2-{Ignorecycle}, 2-White-{Night}, 2-BigSpider-3-{Night}, 4-LanternMouse-{Night}
+
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)HI_B09 : 3-Green, 2-White, 2-Red-2-{Night}, 3-SpitterSpider-{Night}, 3-LanternMouse-{Night}
+(Rivulet)HI_B09 : 2-Centiwing-{Ignorecycle}, 3-Caramel, 2-White-2-{Night}, 2-Red-2-{Night}, 3-LanternMouse-{Night}
+(Artificer,Spear)HI_B09 : 3-Dropwig-{Ignorecycle}, 2-White, 2-White-{Night}, 2-Red-2-{Night}, 3-LanternMouse-{Night}
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)HI_B15 : 2-Small Centipede-3-{Ignorecycle}, 3-Centipede-{0.5}, 2-LanternMouse-{Night}
+(Rivulet)HI_B15 : 2-Centipede-{Ignorecycle}, 3-Centipede-{Ignorecycle}, 2-RedCentipede-{Night}, 2-LanternMouse-{Night}
+(Artificer,Spear)HI_B15 : 2-Small Centipede-2-{Ignorecycle}, 3-Centipede-{0.55}, 2-Centipede-{0.72}, 3-Centipede-{0.68}, 2-Yellow-2-{Night}, 3-Yellow-2-{Night}, 3-LanternMouse-{Night}
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)HI_C04 : 5-Blue, 6-Snail-{Ignorecycle}, 7-Snail-2-{Ignorecycle}, 7-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}, 5-Yellow-2-{Night}, 5-Yellow-2-{Night}, 5-LanternMouse-{Night}
+(Rivulet)HI_C04 : 7-Eel-{Ignorecycle}, 7-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}, 7-Salamander-2-{Night}, 5-White-{Night}
+(Red,Artificer,Spear)HI_C04 : 5-Cyan, 7-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}, 5-White-{Night}, 7-Salamander-{Night}
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)HI_B07 : 3-Pink, 2-Pink, 3-TentaclePlant-{PreCycle}, 3-White-{Night}, 2-SpitterSpider-{Night}, 3-LanternMouse-{Night}
+(Yellow)HI_B07 : 3-Pink, 2-EggBug, 3-TentaclePlant-{PreCycle}, 3-LanternMouse-{Night}, 2-BigSpider-3-{Night}
+(Rivulet)HI_B07 : 2-EggBug, 3-Centiwing-{Ignorecycle}, 3-TentaclePlant-{PreCycle}, 3-LanternMouse-{Night}, 2-BigSpider-2-{Night}
+(Red,Artificer,Spear)HI_B07 : 3-Pink-2, 2-EggBug, 3-TentaclePlant-{PreCycle}, 3-LanternMouse-{Night}, 2-BigSpider-2-{Night}
+(X-Yellow,Rivulet,Saint,Inv,Red,Artificer,Spear)HI_C05 : 3-Pink, 4-Pink, 3-LanternMouse-{Night}, 4-BigSpider-2-{Night}
+(Rivulet)HI_C05 : 3-EggBug, 4-Pink, 3-LanternMouse-{Night}, 4-BigSpider-2-{Night}, 4-MotherSpider-{Night}
+(Gourmand,Rivulet)HI_A04 : 2-Mimic-{18}
+(X-Red,Artificer,Spear,Rivulet,Saint,Inv)HI_C11 : 3-Blue, 3-BigSpider-2-{Night}, 3-MotherSpider-{Night}, 3-LanternMouse-{Night}
+(Rivulet)HI_C11 : 3-Yellow-2-{Ignorecycle}, 4-Cyan, 3-BigSpider-2-{Night}, 4-MotherSpider-{Night}, 3-LanternMouse-{Night}
+(Artificer,Spear)HI_C11 : 3-Cyan, 3-White-{Night}, 3-SpitterSpider-{Night}
+(X-Gourmand,Red,Artificer,Spear,Saint,Inv)HI_C03 : 3-White-{Ignorecycle}, 3-Eel-{PreCycle}, 3-Salamander-{Night}, 3-BigSpider-2-{Night}
+(Gourmand)HI_C03 : 3-Cyan, 3-Eel-{PreCycle}, 3-Eel-{PreCycle}, 3-Salamander-{Night}, 3-MotherSpider-{Night}
+(Red,Artificer,Spear)HI_C03 : 3-Eel-{PreCycle}, 3-Eel-{PreCycle}, 3-Salamander-{Night}, 3-MotherSpider-{Night}
+(X-Saint)HI_D01 : 2-Cyan-2-{PreCycle}, 2-BigSpider-2-{Night}, 2-LanternMouse-{Night}
+(Red,Artificer,Spear)HI_A17 : 3-Green, 3-Cyan-{PreCycle}, 3-Yellow-{Night}, 3-BigSpider-2-{Night}, 3-LanternMouse-{Night}
+(X-Red,Artificer,Spear,Saint,Inv)HI_A17 : 3-Cyan-{PreCycle}, 3-Yellow-{Night}, 3-MotherSpider-{Night}, 3-LanternMouse-{Night}
+(Gourmand,Rivulet)HI_B05 : 3-Cyan, 3-Yellow-{Night}, 3-White-{Night}, 3-LanternMouse-{Night}
+(Artificer,Spear,Inv)HI_B05 : 3-Dropwig-{Ignorecycle}, 3-BigSpider-2-{Night}, 3-MotherSpider-{Night}, 3-LanternMouse-{Night}
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)HI_A16 : 4-Green, 4-Yellow-{Night}, 4-BigSpider-2-{Night}, 4-LanternMouse-{Night}
+(Rivulet)HI_A16 : 4-Caramel, 4-Yellow-{Night}, 4-MotherSpider-{Night}, 4-LanternMouse-{Night}
+(Artificer,Spear)HI_A16 : 4-Blue, 4-Yellow-{Night}, 4-MotherSpider-{Night}, 4-LanternMouse-{Night}
+
+(Rivulet)HI_A25 : 2-Centipede-2-{Ignorecycle}, 2-RedCentipede-{Night}, 2-LanternMouse-{Night}
+(Artificer,Spear)HI_A25 : 2-Dropbug-{Ignorecycle}, 2-BigSpider-2-{Night}, 2-MotherSpider-{Night}, 2-LanternMouse-{Night}
+(Gourmand)HI_B06 : 4-Red-{Ignorecycle}, 4-BigSpider-2-{Night}, 4-SpitterSpider-{Night}
+(Rivulet)HI_B06 : 4-Yellow-2-{Ignorecycle}, 4-Yellow-{Night}, 4-MotherSpider-{Night}, 4-LanternMouse-{Night}
+(Artificer,Spear)HI_B06 : 3-Cyan, 4-Red-{Ignorecycle}, 3-BigSpider-2-{Night}, 4-SpitterSpider-{Night}
+(Rivulet,Saint,Inv)HI_A10 : 3-Centiwing-{Ignorecycle}, 3-BigSpider-2-{Night}, 3-LanternMouse-{Night}
+(Rivulet)HI_C01 : 4-Yellow-4-{Ignorecycle}, 4-SpitterSpider-{Night}, 4-LanternMouse-{Night}
+
+//BELOW IS EX INDUSTRIAL SPAWNS
+
+(X-Saint)HI_largebaseexdrain : 4-Snail-{Ignorecycle}, 5-Snail-{Ignorecycle}, 6-Snail-2-{Ignorecycle}, 7-Snail-{Ignorecycle}, 4-Eel-{Night}, 5-Salamander-{Night}, 6-Leech-10-{Night}, 7-Leech-10-{Night}
+(X-Saint)HI_excellarhub : 7-Snail-2-{Ignorecycle}, 6-Snail-{Ignorecycle}, 6-Salamander-{Night}, 6-Salamander-{Night}, 7-Leech-10-{Night}, 7-Leech-10-{Night}
+(X-Saint)HI_Abaseexppool : 4-Snail-{Ignorecycle}, 5-Snail-{Ignorecycle}, 4-Leech-10-{Night}, 4-Leech-10-{Night}, 5-Eel-{Night}
+HI_Abaseexppool : 3-Salamander, 3-Leech-10-{Night}, 3-Leech-10-{Night}, 3-Salamander-{Night}
+(X-Saint)HI_exbasepoolcross : 3-Snail-2-{Ignorecycle}, 3-Salamander-2-{Night}
+(X-Rivulet)HI_exbaseextrerior : 3-Pink, 3-Black-2-{Night}
+HI_exbaseTowerinside : 4-Blue, 4-Yellow-2-{Night}, 4-LanternMouse-{Night}
+
+(X-Rivulet,Saint)HI_exmcconnecttop : 2-BigNeedleWorm, 3-SmallNeedleWorm-3, 2-LanternMouse-{Night}
+(X-Rivulet)HI_exbasepoolcross : 3-Snail-2-{Ignorecycle}
+HI_exbasehighertower : 3-Pink, 3-LanternMouse-{Night}
+(X-Saint)HI_baseexsidetop : 1-CicadaA-3, 1-LanternMouse-{Night}
+(Rivulet)HI_exbaseextrerior : 4-TentaclePlant-{PreCycle}
+(Rivulet)HI_basebetween : 2-Eel-{PreCycle}, 3-White-{Night}
+(Rivulet,Saint)HI_exbasekarma : 1-Small Centipede-2-{Ignorecycle}, 1-LanternMouse-{Night}
+(Rivulet)HI_Bexvent : 3-Blue, 3-White-{Night}, 3-LanternMouse-{Night}
+(Rivulet)HI_exbasecorri1 : 2-Dropwig-{Ignorecycle}, 2-LanternMouse-{Night}
+(Rivulet,Saint)HI_exbasepoolcross : 3-Eel
+(Rivulet)HI_baseexextrerior : 3-Centiwing-{Ignorecycle}, 3-LanternMouse-{Night}
+(Rivulet,Saint)HI_rightofunderdetgift : 5-Caramel, 5-SpitterSpider-2-{Night}
+(Rivulet,Saint)HI_exbaseextrerior : 4-Caramel, 4-White-{Night}, 4-LanternMouse-{Night}
+(Rivulet,Saint)HI_baseexdetgift : 5-Yellow-2-{Ignorecycle}, 5-LanternMouse-{Night}
+
+(Artificer)HI_Industrilacomp : 2-Cyan, 2-White-{Night}, 2-LanternMouse-{Night}
+(Spear)HI_Industrilacomp : 2-DropBug-{Ignorecycle}, 2-BigSpider-2-{Night}, 2-LanternMouse-{Night}
+(Spear)HI_exbasethinpipe : 2-Centipede-{0.5}, 2-Centipede-{0.7}, 2-Centipede-{0.6}, 2-RedCentipede-{Night}
+(Spear)HI_rightofunderdetgift : 4-DropBug-{Ignorecycle}, 4-BigSpider-2-{Night}, 4-SpitterSpider-2-{Night}, 2-LanternMouse-{Night}
+(Spear)HI_baseextowerbase : 3-DropBug-{Ignorecycle}, 3-BigSpider-2-{Night}, 3-MotherSpider-2-{Night}, 3-LanternMouse-{Night}
+(Spear)HI_Bexvent : 3-Red-{Ignorecycle}, 3-BigSpider-2-{Night}, 3-SpitterSpider-2-{Night}
+(Artificer)OFFSCREEN : 0-Vulture-4, 0-KingVulture-1, 0-Scavenger-19, 0-Vulture-2-{Night}, 0-KingVulture-2-{Night}, 0-MirosVulture-2-{Night}, 0-Scavenger-13-{Night}
+(Spear)OFFSCREEN : 0-Vulture-2, 0-KingVulture-2, 0-Scavenger-14, 0-Vulture-2-{Night}, 0-KingVulture-2-{Night}, 0-MirosVulture-2-{Night}, 0-Scavenger-10-{Night}
+(Rivulet)OFFSCREEN : 0-Vulture-2, 0-Scavenger-6, 0-Vulture-1-{Night}, 0-KingVulture-3-{Night}, 0-MirosVulture-1-{Night}, 0-Scavenger-3-{Night}
+(Gourmand)OFFSCREEN : 0-Vulture-3, 0-KingVulture-2, 0-Scavenger-9, 0-Vulture-2-{Night}, 0-KingVulture-2-{Night}, 0-MirosVulture-1-{Night}, 0-Scavenger-5-{Night}
+(Gourmand,Rivulet,Saint)HI_baseexhub : 4-Caramel, 4-SpitterSpider-2-{Night}
+
+//white
+(White)OFFSCREEN : 0-Vulture-4, 0-Scavenger-8
+
+//white and yellow
+(White,Yellow)HI_exbaseextrerior : 4-Green, 4-Yellow-2-{Night}, 4-LanternMouse-{Night}
+(White,Yellow)HI_baseexhub : 4-Green, 4-Yellow-2-{Night}, 4-LanternMouse-{Night}
+(White,Yellow)HI_exbasethinpipe : 2-Small Centipede-2-{Ignorecycle}, 2-Centipede-{Night}, 2-LanternMouse-{Night}
+
+//yellow
+(Yellow)OFFSCREEN : 0-Vulture-2, 0-Scavenger-6, 0-Vulture-3-{Night}, 0-Scavenger-3-{Night}
+(Yellow)HI_exvulturehole : 2-EggBug-{Ignorecycle}, 2-Yellow-2-{Night}, 2-BigSpider-2-{Night}, 2-LanternMouse-{Night}
+(Yellow,Rivulet,Gourmand)HI_exunderextrerior : 3-EggBug-{Ignorecycle}, 3-White-{Night}, 3-BigSpider-2-{Night}, 3-LanternMouse-{Night}
+
+//red
+(Red)OFFSCREEN : 0-Vulture-3, 0-KingVulture-1, 0-Scavenger-9, 0-Vulture-1-{Night}, 0-KingVulture-3-{Night}, 0-MirosVulture-2-{Night}, 0-Scavenger-6-{Night}
+(Red,Artificer,Spear)HI_baseexdetgift : 4-DropBug-{Ignorecycle}, 4-BigSpider-2-{Night}, 4-LanternMouse-{Night}
+(Red,Artificer,Spear)HI_exbaseoutsidetower : 5-Cyan, 5-White-{Night}, 5-White-{Night}
+(Red,Artificer)HI_exbasehighertower : 3-DropBug-{Ignorecycle}, 3-SpitterSpider-{Night}, 3-BigSpider-2-{Night}, 3-LanternMouse-{Night}
+(Red)HI_exunderextrerior : 3-EggBug-{Ignorecycle}, 3-MotherSpider-2-{Night}, 3-BigSpider-2-{Night}, 3-LanternMouse-{Night}
+(Red,Artificer)HI_exbasethinpipe : 2-Small Centipede-{Ignorecycle}, 2-Centipede-{0.3}, 2-Centipede-{0.5}, 2-RedCentipede-{Night}, 2-LanternMouse-{Night}
+(Red,Artificer,Spear)HI_under06 : 2-DropBug-{Ignorecycle}, 2-BigSpider-2-{Night}, 2-LanternMouse-{Night}
+(Red,Artificer,Spear)HI_exbaseextrerior : 2-Cyan, 2-White-{Night}, 2-Yellow-{Night}
+(Red,Artificer,Spear)HI_basebetween : 2-Cyan, 2-Yellow-{Night}
+(Red,Artificer,Spear)HI_baseexdetgift : 8-Cyan, 8-Yellow-{Night}
+(Red,Artificer,Spear)HI_baseexhub : 4-Cyan, 4-Yellow-{Night}
+
+//white and red
+(White,Red,Gourmand,Artificer,Spear)HI_excellarhub : 4-Centipede-{0.3}, 4-LanternMouse-{Night}
+
+END CREATURES
+[END MERGE]

@@ -1,0 +1,7 @@
+[MERGE]
+
+RainIntensity: 0.05
+RumbleIntensity: 0
+DangerType: None
+
+[ENDMERGE]

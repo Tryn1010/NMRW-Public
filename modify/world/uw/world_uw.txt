@@ -1,0 +1,113 @@
+[MERGE]
+CREATURES
+
+//all
+UW_A07 : 3-Tube-{Ignorecycle}, 4-Tube-{Ignorecycle}, 5-Tube-{Ignorecycle}, 3-BigSpider-2-{Night}
+UW_C01 : 2-Tube-2-{Ignorecycle}, 4-Daddy-{Ignorecycle}, 2-BigSpider-2-{Night}
+UW_C02 : 4-Yellow, 5-Yellow, 2-Tube-{Ignorecycle}, 3-Tube-{Ignorecycle}, 2-BigSpider-2-{Night}, 2-SpitterSpider-2-{Night}
+UW_E02 : 6-Mimic-{Ignorecycle}
+UW_A02 : 2-White, 2-BigSpider-2-{Night}
+UW_E01 : 3-Blue, 2-White, 4-Mimic-{18}, 5-Mimic-{16}, 3-BigSpider-2-{Night}
+UW_F01 : 4-White, 5-White, 4-BigSpider-2-{Night}
+UW_C04 : 5-Tube-2-{Ignorecycle}, 5-BigSpider-2-{Night}
+UW_C06 : 2-Tube-{Ignorecycle}, 3-Tube-{Ignorecycle}, 4-Tube-{Ignorecycle}, 6-Tube-{Ignorecycle}, 3-BigSpider-2-{Night}
+
+//white
+(White)UW_E03 : 4-Daddy-{Ignorecycle}, 8-White, 8-BigSpider-2-{Night}, 8-Spiders-20-{Night}, 8-BigSpider-2-{Night}
+(White)UW_A09 : 5-Tube, 3-Tube, 4-White, 3-BigSpider-2-{Night}, 5-SpitterSpider-{Night}, 5-MotherSpider-{Night}, 3-BigSpider-2-{Night}
+(White)UW_E04 : 3-Daddy-{Ignorecycle}, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 6-Spiders-20-{Night}, 6-SpitterSpider-{Night}, 7-MotherSpider-{Night}, 6-BigSpider-2-{Night}
+(White)UW_I01 : 5-Yellow-2-{Ignorecycle}, 6-Yellow-2-{Ignorecycle}, 5-SpitterSpider-{Night}, 6-MotherSpider-{Night}
+(White)UW_D03 : 3-Daddy-{Ignorecycle}
+(White)UW_J02 : 5-Daddy-{Ignorecycle}, 16-Yellow-{Ignorecycle}, 19-Yellow-{Ignorecycle}, 17-Yellow-2-{Ignorecycle}, 13-Tube-{Ignorecycle}, 14-Tube-{Ignorecycle}, 16-Spiders-20-{Night}, 16-SpitterSpider-{Night}, 19-MotherSpider-{Night}, 17-BigSpider-2-{Night}
+(White)UW_J01 : 3-Yellow-{Ignorecycle}, 4-Yellow-{Ignorecycle}, 5-Yellow-{Ignorecycle}, 6-Yellow-2-{Ignorecycle}, 3-SpitterSpider-{Night}, 4-SpitterSpider-{Night}, 5-MotherSpider-{Night}, 6-BigSpider-2-{Night}
+
+//white and yellow
+(White,Yellow)UW_D04 : 4-Daddy-{Ignorecycle}, 5-Tube-{Ignorecycle}, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 7-Spiders-20-{Night}, 6-SpitterSpider-{Night}, 5-MotherSpider-{Night}, 4-BigSpider-2-{Night}
+
+//yellow
+(Yellow)UW_D03 : 3-White-{Mean:-0.05}, 3-Cyan-{Night}-{Mean:-0.05}, 3-BigSpider-{Night}, 3-MotherSpider-{Night}, 3-BigSpider-2-{Night}
+(Yellow)UW_D02 : 3-White-{Mean:-0.05}, 3-Cyan-{Night}-{Mean:-0.05}, 3-BigSpider-{Night}, 3-MotherSpider-{Night}, 3-BigSpider-2-{Night}
+(Yellow)UW_E03 : 4-Daddy-{Ignorecycle}, 8-White-{Mean:-0.05}, 8-Cyan-{Night}-{Mean:-0.05}, 8-Spiders-20-{Night}, 8-BigSpider-{Night}, 8-MotherSpider-{Night}, 8-BigSpider-2-{Night}
+(Yellow)UW_A09 : 5-Tube-{Ignorecycle}, 3-Tube-{Ignorecycle}, 3-BigSpider-{Night}, 5-MotherSpider-{Night}, 3-BigSpider-2-{Night}
+(Yellow)UW_E04 : 3-White-{Mean:-0.05}, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 6-Spiders-20-{Night}, 7-BigSpider-{Night}, 7-MotherSpider-{Night}, 6-BigSpider-2-{Night}
+(Yellow)UW_I01 : 5-Yellow-{Ignorecycle}, 6-Yellow-{Ignorecycle}, 6-BigSpider-{Night}, 5-MotherSpider-{Night}, 6-BigSpider-2-{Night}
+(Yellow)UW_J02 : 5-Daddy-{Ignorecycle}, 19-Yellow-{Ignorecycle}, 17-Yellow-{Ignorecycle}, 13-Tube-{Ignorecycle}, 14-Tube-{Ignorecycle}, 13-Spiders-20-{Night}, 14-BigSpider-{Night}, 13-MotherSpider-{Night}, 14-BigSpider-2-{Night}
+(Yellow)UW_J01 : 3-Yellow-{Ignorecycle}, 4-Yellow-{Ignorecycle}, 5-Yellow-{Ignorecycle}, 6-Yellow-{Ignorecycle}, 4-BigSpider-{Night}, 5-MotherSpider-{Night}, 6-BigSpider-2-{Night}
+
+//red
+(Red)OFFSCREEN : 0-KingVulture-1, 0-KingVulture-2-{Night}, 0-MirosVulture-1-{Night}
+(Red)UW_I01 : 5-Cyan-2, 6-Cyan-2, 5-SpitterSpider-2-{Night}, 6-MotherSpider-{Night}, 5-BigSpider-2-{Night}
+(Red)UW_J01 : 3-Cyan, 4-Cyan, 5-Cyan, 6-Cyan-2, 5-SpitterSpider-2-{Night}, 6-MotherSpider-{Night}, 5-BigSpider-2-{Night}
+(Red)UW_E03 : 8-White-{Mean:1.0}, 3-SpitterSpider-{Ignorecycle}, 4-SpitterSpider-2-{Ignorecycle}, 5-SpitterSpider-{Ignorecycle}, 6-SpitterSpider-{Ignorecycle}, 7-SpitterSpider-{Ignorecycle}, 9-SpitterSpider-{Ignorecycle}, 5-MotherSpider-2-{Night}, 6-MotherSpider-2-{Night}, 5-BigSpider-3-{Night}
+(Red)UW_D02 : 3-White-{Mean:1.0}, 4-SpitterSpider-{Ignorecycle}, 4-SpitterSpider-2-{Night}, 3-MotherSpider-{Night}, 3-BigSpider-2-{Night}
+(Red)UW_E02 : 3-SpitterSpider-{Ignorecycle}, 4-SpitterSpider-{Ignorecycle}, 6-White-{Mean:1.0}, 3-SpitterSpider-2-{Night}, 6-MotherSpider-{Night}, 4-BigSpider-2-{Night}
+(Red)UW_D03 : 2-Cyan-2, 3-SpitterSpider-{Ignorecycle}, 2-MotherSpider-2-{Night}, 6-MotherSpider-{Night}, 5-BigSpider-2-{Night}
+(Red)UW_D04 : 4-Dropbug-{Ignorecycle}, 3-Dropbug-{Ignorecycle}, 5-Tube-{Ignorecycle}, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 4-SpitterSpider-2-{Night}, 5-MotherSpider-2-{Night}, 6-BigSpider-2-{Night}
+(Red)UW_J02 : 5-Daddy-{Ignorecycle}, 16-Cyan, 19-Cyan, 17-Cyan, 13-Tube-{Ignorecycle}, 14-Tube-{Ignorecycle}, 16-White-2-{Night}, 16-MotherSpider-2-{Night}, 6-BigSpider-{Night}, 5-BigSpider-2-{Night}
+(Red)UW_E04 : 3-White, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 3-White-2-{Night}, 7-MotherSpider-{Night}, 7-BigSpider-2-{Night}
+(Red)UW_D06 : 3-Tube-{Ignorecycle}
+(Red)UW_C04 : 3-White-{Mean:0.7}, 3-SpitterSpider-{Night}
+(Red)UW_A09 : 4-White-{Mean:0.7}, 3-SpitterSpider-{Night}
+
+//white and red
+(White,Red)UW_D01 : 2-Dropbug-{Ignorecycle}, 2-MotherSpider-{Night}
+
+// MSC SPAWNS BELOW --------------------------------------------------------------------------------------------------------------------------------
+
+(Artificer)OFFSCREEN : 0-KingVulture-1, 0-MirosVulture-1, 0-Scavenger-8, 0-EliteScavenger-3-{Night}, 0-KingVulture-2-{Night}, 0-MirosVulture-2-{Night}, 0-Scavenger-4-{Night}
+(Spear)OFFSCREEN : 0-KingVulture-1, 0-Vulture-2, 0-MirosVulture-2, 0-Scavenger-8, 0-EliteScavenger-3-{Night}, 0-KingVulture-2-{Night}, 0-MirosVulture-2-{Night}, 0-Scavenger-4-{Night}
+
+UW_E01 : 3-Blue, 2-White, 3-Cyan-{Night}, 4-Mimic-{18}, 5-Mimic-{16}, 3-BigSpider-2-{Night}, 2-SpitterSpider-{Night}
+(X-Spear,Inv)UW_C01 : 2-Tube-2-{Ignorecycle}, 4-Daddy-{Ignorecycle}, 2-BigSpider-2-{Night}, 2-SpitterSpider-{Night}
+(Spear)UW_C01 : 2-Tube-2-{Ignorecycle}, 3-BigSpider, 4-Cyan-{Ignorecycle}, 2-BigSpider-2-{Night}, 2-SpitterSpider-{Night}
+(X-Rivulet)UW_C02 : 4-Yellow, 5-Yellow, 2-Tube-{Ignorecycle}, 3-Tube-{Ignorecycle}, 4-Yellow-{Night}, 5-Yellow-{Night}, 2-SpitterSpider-{Night}
+(X-Rivulet)UW_A02 : 2-White, 2-SpitterSpider-{Night}, 2-BigSpider-2-{Night}, 2-SpitterSpider-{Night}
+(Rivulet)UW_A02 : 2-White, 2-MotherSpider-2-{Night}, 2-SpitterSpider-{Night}
+(Red,Artificer)UW_E02 : 3-BigSpider-{Ignorecycle}, 4-BigSpider-{Ignorecycle}, 6-White-{Mean:1.0}, 6-Mimic, 3-MotherSpider-2-{Night}, 6-SpitterSpider-{Night}, 3-BigSpider-2-{Night}
+(Spear)UW_E02 : 4-SpitterSpider-{Ignorecycle}, 3-White, 6-Mimic, 3-SpitterSpider-2-{Night}, 2-BigSpider-{Night}
+(X-Red,Artificer,Spear,Inv)UW_E02 : 6-Mimic
+(X-Spear)UW_F01 : 4-White, 5-White, 2-BigSpider-{Night}, 4-CicadaB-2-{PreCycle}, 3-CicadaA-5-{PreCycle}, 4-MotherSpider-2-{Night}, 2-BigSpider-{Night}
+(Spear)UW_F01 : 3-Mimic-{12}, 4-White, 5-White, 2-BigSpider-{Night}, 4-CicadaB-2-{PreCycle}, 3-CicadaA-5-{PreCycle}, 4-SpitterSpider-2-{Night}, 2-BigSpider-{Night}
+(Red,Artificer,Spear)UW_C04 : 3-White-{Mean:0.7}, 5-Tube-2-{Ignorecycle}, 5-BigSpider-3-{Night}
+(X-Red,Artificer,Spear,Inv)UW_C04 : 5-Tube-2-{Ignorecycle}, 5-BigSpider-3-{Night}
+(X-Yellow,Rivulet)UW_D01 : 2-Dropbug-{Ignorecycle}, 2-Eggbug-{PreCycle}, 2-BigSpider-3-{Night}, 2-SpitterSpider-3-{Night}
+(Yellow,Rivulet)UW_D01 : 2-Eggbug-{PreCycle}, 2-BigSpider-3-{Night}, 2-MotherSpider-{Night}
+
+(X-Red,Artificer,Spear,Inv)UW_D06 : 3-Tube-2-{Ignorecycle}, 3-BigSpider-2-{Night}
+(Red,Artificer,Spear,Inv)UW_D06 : 3-Tube-{Ignorecycle}, 3-BigSpider-2-{Night}, 3-SpitterSpider-3-{Night}
+(Artificer)UW_D04 : 4-Dropbug-{Ignorecycle}, 3-Blue-{Ignorecycle}, 5-Tube-{Ignorecycle}, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 4-SpitterSpider-{Night}, 3-BigSpider-3-{Night}
+(Spear)UW_D04 : 3-Dropbug-{Ignorecycle}, 4-Blue, 5-SpitterSpider-{Ignorecycle}, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 4-SpitterSpider-{Night}, 3-BigSpider-4-{Night}
+(Rivulet)UW_D04 : 4-Daddy-{Ignorecycle}, 5-Tube-{Ignorecycle}, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 5-BigSpider-2-{Night}, 7-SpitterSpider-2-{Night}
+(White,Gourmand)UW_J01 : 3-Cyan-{Night}, 4-Cyan-{Night}, 5-Cyan-{Night}, 3-Yellow-{Ignorecycle}, 4-Yellow-{Ignorecycle}, 5-Yellow-{Ignorecycle}, 6-Yellow-2-{Ignorecycle}, 3-BigSpider-3-{Night}, 4-MotherSpider-2-{Night}
+
+(Red,Artificer,Spear,Inv)UW_J01 : 3-Cyan-{Ignorecycle}, 4-Cyan, 5-Cyan-{Ignorecycle}, 6-Cyan-2, 4-Yellow-2-{Night}, 6-Yellow-2-{Night}
+(Red,Artificer,Spear)UW_E03 : 8-White-{Mean:1.0}, 3-SpitterSpider-{Ignorecycle}, 4-BigSpider-2-{Ignorecycle}, 5-BigSpider-{Ignorecycle}, 6-BigSpider-{Ignorecycle}, 7-SpitterSpider-{Ignorecycle}, 9-SpitterSpider-{Ignorecycle}, 5-Cyan-2-{Night}, 6-White-{Night}
+(Artificer,Spear)UW_I01 : 5-Cyan, 6-SpitterSpider-{Ignorecycle}, 5-White-2-{Night}, 5-SpitterSpider-2-{Night}
+(Artificer,Spear)UW_D02 : 3-White-{Mean:1.0}, 4-SpitterSpider-{Ignorecycle}, 3-Cyan-2-{Night}, 4-MotherSpider-2-{Night}
+(Rivulet)UW_D02 : 3-Daddy-{Ignorecycle}
+(Artificer,Inv)UW_D03 : 2-Cyan-1, 3-SpitterSpider-{Ignorecycle}, 2-White-2-{Night}, 3-MotherSpider-{Night}
+(Spear)UW_D03 : 2-Cyan-2, 3-White-{Mean:-0.05}, 3-White-2-{Night}, 3-MotherSpider-{Night}
+(Artificer)UW_J02 : 5-Daddy-{Ignorecycle}, 16-Cyan, 19-Cyan, 17-White, 13-Tube-{Ignorecycle}, 14-Tube-{Ignorecycle}, 16-Yellow-{Night}, 19-Yellow-{Night}, 17-Yellow-{Night}
+(Artificer)UW_E04 : 3-White, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 3-Cyan-{Night}, 6-BigSpider-3-{Night}, 7-MotherSpider-{Night}
+(Spear)UW_E04 : 3-White, 5-Blue, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 3-Cyan-{Night}, 6-BigSpider-3-{Night}, 7-MotherSpider-{Night}, 7-SpitterSpider-2-{Night}
+(Artificer,Spear)UW_A09 : 4-White-{Mean:0.7}, 4-Cyan-{Mean:0.7}-{Night}, 4-SpitterSpider-2-{Night}, 4-BigSpider-2-{Night}
+(Spear,Inv)UW_A01 : 3-Dropbug-{Ignorecycle}, 3-BigSpider-4-{Night}
+
+(Gourmand)UW_E03 : 4-Daddy-{Ignorecycle}, 8-White, 8-Cyan-{Night}, 8-BigSpider-3-{Night}
+(Rivulet)UW_E03 : 4-Daddy-{Ignorecycle}, 8-Daddy-{Ignorecycle}
+(Gourmand)UW_A09 : 5-Tube-{Ignorecycle}, 3-Tube-{Ignorecycle}, 4-White, 4-Cyan-{Night}, 3-BigSpider-3-{Night}
+(Rivulet)UW_A09 : 5-Tube-{Ignorecycle}, 3-Tube-{Ignorecycle}, 5-SpitterSpider-{Night}, 3-BigSpider-3-{Night}
+(Gourmand)UW_E04 : 3-Daddy-{Ignorecycle}, 6-Tube-{Ignorecycle}, 7-Tube-{Ignorecycle}, 6-Cyan-{Night}, 6-BigSpider-3-{Night}
+(Gourmand)UW_I01 : 5-Yellow-2, 6-Yellow-2, 6-Yellow-2-{Night}, 5-Yellow-2-{Night}
+(Rivulet)UW_I01 : 5-Daddy-{Ignorecycle}
+(Gourmand,Rivulet)UW_D03 : 3-Daddy-{Ignorecycle}
+(Gourmand)UW_J02 : 5-Daddy-{Ignorecycle}, 16-Yellow, 19-Yellow, 17-Yellow-2, 13-Tube-{Ignorecycle}, 14-Tube-{Ignorecycle}
+(Spear)UW_J02 : 16-Yellow, 19-Yellow, 17-Yellow-2, 13-Tube, 14-Tube, 16-Yellow-{Night}, 19-Yellow-{Night}, 17-Yellow-{Night}, 14-BigSpider-4-{Night}
+
+(Yellow,Rivulet)UW_J01 : 3-Yellow-{Ignorecycle}, 4-Yellow-{Ignorecycle}, 5-Yellow-{Ignorecycle}, 6-Yellow-{Ignorecycle}
+(Yellow,Rivulet)UW_D07 : 4-Tube-{Ignorecycle}, 4-SpitterSpider-{Night}
+(Rivulet)UW_E04RIV : 3-Daddy-{Ignorecycle}, 5-Tube-{Ignorecycle}, 5-BigSpider-2-{Night}
+(Rivulet)UW_J02RIV : 5-Daddy-{Ignorecycle}, 8-Tube-2-{Ignorecycle}, 8-BigSpider-2-{Night}
+(Rivulet)UW_C01RIV : 2-Tube-2-{Ignorecycle}, 3-Daddy-{Ignorecycle}, 2-BigSpider-2-{Night}
+END CREATURES
+[END MERGE]

@@ -1,0 +1,9 @@
+[MERGE]
+
+RainIntensity: 0.3043478
+RumbleIntensity: 0
+Effects: DayNight-1-286-78, Darkness-0.3016915-286.2633-135.2, Dawn-1-287-16, 
+DangerType: None
+PlacedObjects: DayNightSettings><524.8519><320.9221><-38~-105.3398~10~10, DawnData><720.3826><273.5196><-233.0149~-99.36407~3,
+
+[ENDMERGE]

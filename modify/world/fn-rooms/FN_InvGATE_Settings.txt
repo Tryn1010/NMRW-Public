@@ -1,0 +1,8 @@
+[MERGE]
+
+RainIntensity: 0.3043478
+RumbleIntensity: 0
+Effects: ElectricDeath-0-22-82,
+DangerType: None
+
+[ENDMERGE]

@@ -1,0 +1,294 @@
+[MERGE]
+//all
+OFFSCREEN : 0-Scavenger-3, 0-Scavenger-7
+DS_D02 : 2-TentaclePlant, 2-TentaclePlant-{Night}
+DS_A27 : 2-TentaclePlant, 2-TentaclePlant-{Night}
+DS_A05 : 3-Leech-15-{Ignorecycle}, 4-Leech-10-{Ignorecycle}, 2-Snail-3, 4-Eel-{Night}, 2-Snail-2-{Night}
+DS_A21 : 1-Mimic-{14}, 2-Snail-2, 3-Snail-2, 3-Eel-{Night}, 3-Snail-2-{Night}
+DS_C01 : 6-Leech-15-{Ignorecycle}, 7-Leech-10-{Ignorecycle}, 7-Snail-3-{Night}
+DS_A07 : 2-Snail, 2-Leech-5-{Ignorecycle}
+DS_A17 : 2-Snail-{Ignorecycle}
+DS_A13 : 2-Leech-5-{Ignorecycle}, 3-Leech-5-{Ignorecycle}
+DS_A14 : 2-Leech-5-{Ignorecycle}, 3-Leech-5-{Ignorecycle}
+DS_B01 : 3-Leech-5-{Ignorecycle}, 4-Leech-5-{Ignorecycle}, 5-Snail-3-{Ignorecycle}
+DS_A25 : 3-Leech-5-{Ignorecycle}, 4-Leech-7-{Ignorecycle}, 5-Snail-2-{Ignorecycle}
+DS_C04 : 3-TentaclePlant-{Ignorecycle}
+
+//white
+
+//white and yellow
+(White,Yellow)DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 7-Snail, 4-BigSpider-2-{Ignorecycle}
+(White,Yellow)DS_A16 : 3-Snail, 4-Snail-2, 5-Leech-5
+(White,Yellow)DS_A08 : 3-Snail-2, 5-Snail-2, 3-BigSpider-2-{Ignorecycle}
+(White,Yellow)LINEAGE : DS_A08 : 4 : Mimic-{14}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(White,Yellow)LINEAGE : DS_A06 : 3 : Green-0.2, Salamander-0.5, Blue-0.3, Red-0
+(White,Yellow)LINEAGE : DS_A02 : 4 : Pink-0.2, Salamander-0.5, Blue-0.3, Red-0
+(White,Yellow)LINEAGE : DS_A22 : 3 : Green-0.2, Salamander-0.2, White-0
+(White,Yellow)LINEAGE : DS_A09 : 2 : Salamander-0.2, Blue-0.5, White-0.5, Red-0
+(White,Yellow)LINEAGE : DS_A16 : 2 : Salamander-0.2, Blue-0.2, White-0
+//yellow
+
+//red
+(Red)DS_A02 : 3-Centipede-4, 4-Centipede-5, 4-RedCentipede-{Night}
+(Red)DS_A22 : 4-DropBug-2-{Ignorecycle}, 4-BigSpider-2-{Ignorecycle}, 4-BigSpider-2-{Ignorecycle}
+(Red)DS_B07 : 3-DropBug-3-{Ignorecycle}, 4-Cyan-3-{Ignorecycle}, 5-Snail-{Ignorecycle}, 6-Snail-{Ignorecycle}, 7-Snail-{Ignorecycle}, 3-BigSpider-2-{Ignorecycle}
+(Red)DS_A13 : 2-Leech-5-{Ignorecycle}
+(Red)DS_A25 : 4-Leech-5-{Ignorecycle}
+(Red)DS_A16 : 3-Snail-{Ignorecycle}, 4-Snail-2-{Ignorecycle}, 5-Leech-8-{Ignorecycle}
+(Red)DS_A09 : 2-DropBug-2-{Ignorecycle}, 2-BigSpider-2-{Ignorecycle}
+(Red)DS_A08 : 3-TentaclePlant-{Ignorecycle}, 4-Snail-2-{Ignorecycle}, 5-Snail-2-{Ignorecycle}
+(Red)LINEAGE : DS_A02 : 4 : Centipede-0.6, Centipede-{1.0}-1.0, RedCentipede-0
+(Red)LINEAGE : DS_A16 : 2 : DropBug-1.0, Salamander-1.0, Cyan-0.1, Red-0
+(Red)LINEAGE : DS_A06 : 3 : Salamander-1.0, Cyan-0.1, Red-0
+(Red)LINEAGE : DS_A22 : 3 : Green-0.5, Salamander-1, White-1, Cyan-0
+(Red)LINEAGE : DS_A09 : 2 : Salamander-0.2, Cyan-0.1, Red-0
+
+OFFSCREEN : 0-Scavenger-3
+DS_D02 : 2-TentaclePlant-{Ignorecycle}
+DS_A27 : 2-TentaclePlant-{Ignorecycle}
+DS_A05 : 3-Leech-15-{Ignorecycle}, 4-Leech-10-{Ignorecycle}, 2-Snail-3-{Ignorecycle}, 4-Eel-{Night}
+DS_A21 : 1-Mimic-{14}, 2-Snail-2-{Ignorecycle}, 3-Snail-2-{Ignorecycle}, 2-BigSpider-2-{Night}, 3-SpitterSpider-{Night}
+DS_C01 : 6-Leech-15-{Ignorecycle}, 7-Leech-10-{Ignorecycle}
+DS_A07 : 2-Snail-{Ignorecycle}, 2-Leech-5-{Ignorecycle}, 2-BigSpider-2-{Night}, 2-MotherSpider-{Night}
+DS_A17 : 2-Snail-{Ignorecycle}, 2-BigSpider-2-{Night}, 2-MotherSpider-{Night}
+DS_A13 : 2-Leech-5-{Ignorecycle}, 3-Leech-5-{Ignorecycle}
+DS_A14 : 2-Leech-5-{Ignorecycle}, 3-Leech-5-{Ignorecycle}, 3-Eel-{Night}
+DS_B01 : 3-Leech-5-{Ignorecycle}, 4-Leech-5-{Ignorecycle}, 5-Snail-3-{Ignorecycle}
+DS_A25 : 3-Leech-5-{Ignorecycle}, 4-Leech-7-{Ignorecycle}, 5-Snail-2-{Ignorecycle}, 4-Eel-{Night}
+DS_C04 : 3-TentaclePlant-{Ignorecycle}
+
+//white
+
+//white and yellow
+(White,Yellow)DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 7-Snail, 4-Eel-{Night}
+(White,Yellow)DS_A16 : 3-Snail, 4-Snail-2, 5-Leech-5, 3-BigSpider-2-{Night}, 4-SpitterSpider-{Night}
+(White,Yellow)DS_A08 : 3-Snail-2, 5-Snail-2, 3-BigSpider-2-{Night}, 5-SpitterSpider-{Night}, 5-Eel-{Night}
+(White,Yellow)LINEAGE : DS_A08 : 4 : Mimic-{14}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(White,Yellow)LINEAGE : DS_A06 : 3 : Green-0.2, Salamander-0.5, Blue-0.3, Red-0
+(White,Yellow)LINEAGE : DS_A02 : 4 : Pink-0.2, Salamander-0.5, Blue-0.3, Red-0
+(White,Yellow)LINEAGE : DS_A22 : 3 : Green-0.2, Salamander-0.2, White-0
+(White,Yellow)LINEAGE : DS_A09 : 2 : Salamander-0.2, Blue-0.5, White-0.5, Red-0
+(White,Yellow)LINEAGE : DS_A16 : 2 : Salamander-0.2, Blue-0.2, White-0
+//yellow
+
+//red
+(Red)DS_A02 : 3-Centipede-4-{Ignorecycle}, 4-Centipede-5-{Ignorecycle}, 4-RedCentipede-{Night}
+(Red)DS_A22 : 4-DropBug-2, 4-Eel-{Night}
+(Red)DS_B07 : 3-DropBug-3, 4-Cyan-3-{Ignorecycle}, 5-Snail-{Ignorecycle}, 6-Snail-{Ignorecycle}, 7-Snail-{Ignorecycle}
+(Red)DS_A13 : 2-Leech-5, 2-Eel-{Night}
+(Red)DS_A25 : 4-Leech-5, 2-Eel-{Night}
+(Red)DS_A16 : 3-Snail, 4-Snail-2, 5-Leech-8, 3-BigSpider-2-{Night}, 4-SpitterSpider-{Night}, 2-Eel-{Night}
+(Red)DS_A09 : 2-DropBug-2, 2-BigSpider-2-{Night}, 2-MotherSpider-{Night}
+(Red)DS_A08 : 3-TentaclePlant-{Ignorecycle}, 4-Snail-2, 5-Snail-2
+(Red)LINEAGE : DS_A02 : 4 : Centipede-0.6, Centipede-{1.0}-1.0, RedCentipede-0
+(Red)LINEAGE : DS_A16 : 2 : DropBug-1.0, Salamander-1.0, Cyan-0.1, Red-0
+(Red)LINEAGE : DS_A06 : 3 : Salamander-1.0, Cyan-0.1, Red-0
+(Red)LINEAGE : DS_A22 : 3 : Green-0.5, Salamander-1, White-1, Cyan-0
+(Red)LINEAGE : DS_A09 : 2 : Salamander-0.2, Cyan-0.1, Red-0
+
+//BELOW IS MSC SPAWNS
+
+(X-Rivulet,Spear,Artificer)OFFSCREEN : 0-Scavenger-3, 0-Scavenger-2-{Night}
+(Rivulet)OFFSCREEN : 0-Scavenger-10, 0-Scavenger-5-{Night}
+(Spear)OFFSCREEN : 0-Scavenger-7, 0-Scavenger-3-{Night}
+(Artificer)OFFSCREEN : 0-Scavenger-8, 0-Scavenger-4-{Night}
+(X-Rivulet,Spear,White,Yellow)DS_A05 : 3-Leech-15, 4-Leech-10, 2-Snail-3-{Ignorecycle}, 3-TentaclePlant-{PreCycle}, 3-TentaclePlant-{Night}
+(White,Yellow)DS_A05 : 3-Leech-15, 4-Leech-10, 2-Snail-3, 2-Tardigrade-4-{Night}
+(Rivulet)DS_A05 : 3-JungleLeech-15, 4-JungleLeech-10, 2-Snail-3, 3-TentaclePlant-{PreCycle}, 3-TentaclePlant-{Night}
+(X-Rivulet)DS_A21 : 2-Mimic-{14}, 3-Snail-2-{Ignorecycle}, 4-Snail-2-{Ignorecycle}, 3-Tardigrade-2-{Night}, 4-Tardigrade-2-{Night}
+(Rivulet)DS_A21 : 3-Snail-2, 4-Snail-2, 3-Tardigrade-3-{Night}, 4-Tardigrade-3-{Night}
+(X-Rivulet,White,Yellow)DS_C01 : 6-Leech-15, 7-Leech-10, 6-Eel-{PreCycle}, 6-Eel-{Night}
+(Rivulet)DS_C01 : 6-JungleLeech-15, 7-JungleLeech-10, 6-Salamander-{PreCycle}, 6-Eel-{PreCycle}, 6-Eel-{Night}, 6-Salamander-{Night}
+(White,Yellow)DS_C01 : 6-Leech-15, 7-Leech-10
+(X-Spear)DS_A07 : 2-Snail, 2-Leech-5, 2-Tardigrade-{Night}
+(X-Rivulet,White,Yellow)DS_A17 : 2-Snail, 2-Eel-{PreCycle}, 2-Tardigrade-2-{Night}, 2-Eel-{Night}
+(Rivulet)DS_A17 : 2-Eel-{PreCycle}, 2-Tardigrade-3-{Night}, 2-Eel-{Night}
+(White,Yellow)DS_A17 : 2-Snail, 2-Tardigrade-3-{Night}
+(X-Spear,Artificer)DS_A13 : 2-Leech-5, 3-Leech-5, 3-TentaclePlant-{PreCycle}, 3-TentaclePlant-{Night}
+(Spear)DS_A13 : 2-Leech-5, 3-TentaclePlant-{PreCycle}, 3-TentaclePlant-{Night}
+(Artificer)DS_A13 : 2-Leech-5
+(X-Spear,Rivulet)DS_A14 : 2-Leech-5, 3-Leech-5
+(Rivulet)DS_A14 : 2-JungleLeech-5, 3-JungleLeech-5
+(X-Spear,Rivulet)DS_B01 : 3-Leech-5, 4-Leech-5, 5-Snail-3-{Ignorecycle}, 5-Tardigrade-3-{Night}
+(Spear)DS_B01 : 5-TentaclePlant-{PreCycle}, 5-TentaclePlant-{Night}
+(Rivulet)DS_B01 : 3-Leech-5, 4-Leech-5, 5-Snail-3, 4-Salamander-{PreCycle}, 4-Salamander-{Night}, 5-Tardigrade-3-{Night}
+(X-Rivulet,Spear,Artificer,Inv)DS_A25 : 3-Leech-5, 4-Leech-7, 5-Snail-2, 3-TentaclePlant-{PreCycle}, 4-TentaclePlant-{PreCycle}, 5-Tardigrade-2-{Night}, 3-TentaclePlant-{Night}, 4-TentaclePlant-{Night}
+(Rivulet)DS_A25 : 3-JungleLeech-5, 4-JungleLeech-7, 5-Snail-2, 3-TentaclePlant-{PreCycle}, 4-TentaclePlant-{PreCycle}, 5-Tardigrade-3-{Night}, 3-TentaclePlant-{Night}, 4-TentaclePlant-{Night}
+(Spear)DS_A25 : 4-Leech-5, 3-TentaclePlant-{PreCycle}, 4-TentaclePlant-{PreCycle}, 5-Tardigrade-2-{Night}, 3-TentaclePlant-{Night}, 4-TentaclePlant-{Night}
+(Artificer)DS_A25 : 4-Leech-5, 3-TentaclePlant-{PreCycle}, 4-TentaclePlant-{PreCycle}, 5-Tardigrade-2-{Night}, 3-TentaclePlant-{Night}, 4-TentaclePlant-{Night}
+(X-Spear)DS_C04 : 3-TentaclePlant, 3-Tardigrade-2-{Night}
+(Spear)DS_C04 : 3-RedCentipede, 3-Centipede-2-{Night}, 3-Small Centipede-4-{Night}, 3-SpitterSpider-{Night}
+
+(X-Rivulet,Yellow,Red,Artificer,Spear,Inv)DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 7-Snail, 3-White-{Night}, 5-Tardigrade-{Night}, 6-Tardigrade-{Night}, 7-Tardigrade-{Night}
+(Rivulet,Yellow)DS_B07 : 4-Eel, 5-Snail-{Ignorecycle}, 6-Snail-{Ignorecycle}, 7-Snail-{Ignorecycle}, 3-Cyan-{Night}, 5-Tardigrade-{Night}, 6-Tardigrade-{Night}, 7-Tardigrade-{Night}, 7-Barnacles-2-{Night}, 6-Barnacles-2-{Night}
+(Artificer,Spear)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 7-Snail, 3-Big Spider-3-{Night}, 3-SpitterSpider-{Night}, 5-Tardigrade-{Night}, 6-Tardigrade-{Night}, 7-Tardigrade-{Night}
+(X-Red,Artificer,Spear,Rivulet,Inv)DS_A16 : 3-Snail, 4-Snail-2, 5-Leech-5, 3-Tardigrade-{Night}, 4-Tardigrade-{Night}
+(Rivulet)DS_A16 : 3-Snail-{Ignorecycle}, 4-Snail-2-{Ignorecycle}, 5-JungleLeech-15, 3-Tardigrade-2-{Night}, 4-Tardigrade-{Night}, 4-Barnacles-2-{Night}
+(Artificer,Spear)DS_A16 : 3-Snail-{Ignorecycle}, 4-Snail-2-{Ignorecycle}, 5-Leech-8, 3-Tardigrade-{Night}, 4-Tardigrade-{Night}
+(X-Red,Artificer,Spear,Inv)DS_A08 : 3-Snail-2-{Ignorecycle}, 5-Snail-2-{Ignorecycle}, 3-Tardigrade-{Night}, 5-Tardigrade-{Night}, 5-Barnacles-2-{Night}
+(Artificer,Spear)DS_A08 : 3-TentaclePlant, 4-Snail-2-{Ignorecycle}, 5-Snail-2-{Ignorecycle}, 4-Tardigrade-{Night}, 5-Tardigrade-{Night}
+(Gourmand)LINEAGE : DS_A06 : 3 : Green-0.2, Salamander-0.5, Blue-0.3, Red-0
+(Rivulet)LINEAGE : DS_A06 : 3 : Blue-0.2, Salamander-0.5, Eel-0.3, Red-0
+(Artificer,Spear)LINEAGE : DS_A06 : 3 : Salamander-1.0, Cyan-0.1, Red-0
+(Gourmand)LINEAGE : DS_A02 : 4 : Pink-0.2, Salamander-0.5, Blue-0.3, Red-0
+(Rivulet)LINEAGE : DS_A02 : 4 : Blue-0.2, Salamander-0.5, Eel-0.3, Red-0
+(Artificer,Spear)DS_A02 : 3-Centipede-4, 4-Centipede-5, 3-Eel-{PreCycle}, 3-RedCentipede-{Night}, 4-Centipede-2-{Night}, 4-Small Centipede-3-{Night}
+(X-Artificer,Spear,Inv)DS_A02 : 3-Eel-{PreCycle}, 3-Eel-{Night}
+(White,Gourmand)LINEAGE : DS_A22 : 3 : Green-0.2, Salamander-0.2, White-0
+(Yellow,Rivulet)LINEAGE : DS_A22 : 3 : Green-0.2, Caramel-0.2, Salamander-0.2, White-0
+(Artificer,Spear)LINEAGE : DS_A22 : 3 : Green-0.5, Salamander-1, White-1, Cyan-0
+(White,Gourmand)LINEAGE : DS_A09 : 2 : Salamander-0.2, Blue-0.5, White-0.5, Red-0
+(Yellow,Rivulet)LINEAGE : DS_A09 : 2 : Eel-0.2, Blue-0.5, White-0.5, Red-0
+(Artificer,Spear)LINEAGE : DS_A09 : 2 : Salamander-0.2, Cyan-0.1, Red-0
+(Gourmand,Rivulet)LINEAGE : DS_A16 : 2 : Salamander-0.2, Blue-0.2, White-0
+(Artificer,Spear)LINEAGE : DS_A16 : 2 : DropBug-1.0, Salamander-1.0, Cyan-0.1, Red-0
+(Artificer,Spear)DS_A22 : 4-DropBug-2-{Ignorecycle}, 4-Salamander-{PreCycle}, 4-Salamander-{Night}
+(X-Artificer,Spear)DS_A22 : 4-Salamander-{PreCycle}, 4-Salamander-{Night
+(Artificer,Spear,Inv)DS_A09 : 2-DropBug-2-{Ignorecycle}
+(Artificer,Spear)LINEAGE : DS_A02 : 4 : Centipede-0.6, Centipede-{1.0}-1.0, RedCentipede-0
+
+(White,Gourmand,Yellow,Rivulet,Inv)LINEAGE : DS_A08 : 4 : Mimic-{14}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)DS_GUTTER01 : 2-Snail-3-{Ignorecycle}, 4-Leech-12, 2-Tardigrade-{Night}, 2-Cyan-{Night}
+(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)DS_GUTTER03 : 8-Snail-3-{Ignorecycle}, 9-Snail-1-{Ignorecycle}, 9-Eel-{PreCycle}, 8-Tardigrade-{Night}, 9-Tardigrade-{Night}, 9-Eel-{Night}
+(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)DS_GUTTER04 : 4-Snail-1-{Ignorecycle}, 4-Tardigrade-{Night}
+
+(Yellow)DS_GUTTER01 : 2-Snail-1-{Ignorecycle}, 4-Leech-10, 2-Tardigrade-{Night}
+(Yellow)DS_GUTTER03 : 8-Snail-2-{Ignorecycle}, 9-Snail-3-{Ignorecycle}, 9-Eel-{PreCycle}, 8-Tardigrade-{Night}, 9-Tardigrade-{Night}
+(Yellow)DS_GUTTER04 : 4-Snail-2-{Ignorecycle}, 4-Tardigrade-{Night}
+
+(Rivulet)DS_A11 : 2-Eel-{Ignorecycle}
+(Rivulet,Inv)DS_GUTTER01 : 2-Snail-1-{Ignorecycle}, 4-JungleLeech-12, 2-Tardigrade-{Night}
+(Rivulet,Inv)DS_GUTTER02 : 2-SpitterSpider, 2-MotherSpider-{Night}
+(Rivulet)DS_GUTTER03 : 8-Snail-1-{Ignorecycle}, 9-Snail-2-{Ignorecycle}, 9-Eel-{PreCycle}, 8-Tardigrade-{Night}, 9-Tardigrade-{Night}
+(Rivulet)DS_GUTTER04 : 4-Snail-2-{Ignorecycle}, 4-Tardigrade-{Night}
+
+(Red,Artificer,Spear)DS_GUTTER01 : 2-Snail-3-{Ignorecycle}, 4-Leech-12, 2-Tardigrade-{Night}
+(Red,Artificer,Spear,Inv)DS_GUTTER03 : 7-DropBug-2-{Ignorecycle}, 8-Snail-3-{Ignorecycle}, 9-Snail-3-{Ignorecycle}, 9-Eel-{PreCycle}, 9-Eel-{Night}, 8-Tardigrade-{Night}, 9-Tardigrade-{Night}
+(Red,Artificer,Spear)DS_GUTTER04 : 4-Snail-3-{Ignorecycle}, 4-Tardigrade-{Night}
+
+(Inv)DS_A02 : 3-RedCentipede-4, 4-RedCentipede-5, 4-Tardigrade-{Night}, 4-Barnacles-{Night}
+(Inv)DS_B07 : 3-DropBug-3, 4-Red-3, 5-Snail, 6-DropBug, 7-DropBug, 4-Tardigrade-{Night}, 5-Barnacles-{Night}
+(Inv)DS_A25 : 4-Leech-5, 4-Tardigrade-{Night}, 4-Barnacles-{Night}
+(Inv)DS_A16 : 3-Snail, 4-DropBug-2, 5-Leech-8, 4-Tardigrade-{Night}, 4-Barnacles-{Night}
+(Inv)DS_A08 : 3-TentaclePlant, 4-Snail-2, 5-DropBug-2, 4-Tardigrade-{Night}, 4-Barnacles-{Night}
+(Inv)LINEAGE : DS_A02 : 4 : RedCentipede-0
+(Inv)LINEAGE : DS_A16 : 2 : Red-0
+(Inv)LINEAGE : DS_A06 : 3 : Red-0
+(Inv)LINEAGE : DS_A22 : 3 : Red-0
+(Inv)LINEAGE : DS_A09 : 2 : Red-0
+
+//BELOW IS EXPANDED DS STUFF
+
+{#expanded_outskirts}DS_EXDS3 : 2-Snail-3-{Ignorecycle}, 3-Eel-{Ignorecycle}
+
+DS_A11p : 4-TentaclePlant-{Ignorecycle}
+DS_A19p : 2-Snail-{Ignorecycle}
+DS_A25p : 5-Mimic-{11}, 4-Eel-{Ignorecycle}
+DS_A27 : 3-TentaclePlant-{Ignorecycle}
+DS_A23p : 2-TentaclePlant-{Ignorecycle}
+DS_B02p : 6-Mimic-{12}, 7-Salamander-{Ignorecycle}
+DS_B13p : 3-TentaclePlant-{Ignorecycle}
+DS_C07p : 2-TentaclePlant-{Ignorecycle}, 3-Leech-6-{Ignorecycle}, 4-Leech-6-{Ignorecycle}, 5-Leech-6-{Ignorecycle}
+DS_D02 : 6-TentaclePlant-{Ignorecycle}
+DS_EX2p : 5-Leech-5-{Ignorecycle}, 6-Snail-{Ignorecycle}
+DS_B04p : 4-Leech-10-{Ignorecycle}, 3-Eel-{Ignorecycle}
+DS_B14p : 4-Snail-2-{Ignorecycle}, 5-Leech-7-{Ignorecycle}
+DS_B15p : 3-Snail-2-{Ignorecycle}, 5-Salamander-{Ignorecycle}
+DS_D03p : 4-Leech-7-{Ignorecycle}
+DS_C01p : 5-Eel-{Ignorecycle}, 6-Snail-{Ignorecycle}
+DS_C05p : 4-Salamander-{Ignorecycle}, 5-Snail-2-{Ignorecycle}
+DS_B08p : 4-Eel-{Ignorecycle}, 5-Snail-{Ignorecycle}
+DS_D02p : 4-DropBug-{Ignorecycle}, 8-Snail-2-{Ignorecycle}
+DS_A26p : 2-Snail-{Ignorecycle}
+DS_B11p : 4-Leech-7-{Ignorecycle}, 5-Leech-5-{Ignorecycle}, 3-Eel-{Ignorecycle}
+DS_EX3p : 5-Leech-5-{Ignorecycle}
+DS_A07 : 5-Snail-2-{Ignorecycle}
+DS_B03p : 3-Salamander-{Ignorecycle}
+DS_D01p : 2-Snail-2-{Ignorecycle}, 3-Snail-2-{Ignorecycle}
+DS_B17p : 3-Eel-{Ignorecycle}, 4-Snail-2-{Ignorecycle}, 5-Leech-8-{Ignorecycle}
+
+
+(Yellow)LINEAGE : DS_C05p : 2 : EggBug-0.8, Blue-0
+(Yellow)LINEAGE : DS_C01p : 3 : EggBug-0.8, Blue-0.2, White-0.2, Cyan-0
+(Yellow)LINEAGE : DS_A04p : 2 : Centipede-{0.55}-0.5, Centipede-{0.75}-0.3, Centipede-{1.0}-0.6, Red Centipede-0
+
+
+(White,Rivulet,Gourmand)LINEAGE : DS_B02p : 4 : Pink-0.2, Salamander-0.5, White-0.3, ZoopLizard-0
+(White,Rivulet,Gourmand)LINEAGE : DS_C06p : 4 : Blue-0.2, White-0.2, Cyan-0
+(White,Rivulet,Gourmand)LINEAGE : DS_B15p : 4 : Blue-0.3, White-0.2, Cyan-0
+(White,Rivulet,Gourmand)LINEAGE : DS_B14p : 3 : Salamander-0.3, White-0.2, Cyan-0.3, Red-0
+(White,Rivulet,Gourmand)LINEAGE : DS_C01p : 3 : Blue-0.2, White-0.3, Cyan-0
+(White,Rivulet,Gourmand)LINEAGE : DS_C05p : 2 : Blue-0.2, White-0.3, Cyan-0
+(White,Rivulet,Gourmand)DS_D02p : 3-DropBug, 3-BigSpider-2-{Night}
+(White,Rivulet)LINEAGE : DS_A04p : 2 : Centipede-{0.8}-0.3, Centipede-{1.0}-0.5, Red Centipede-0
+(White,Rivulet,Gourmand)DS_B17p : 2-Dropbug, 2-BigSpider-2-{Night}
+
+
+(White,Rivulet,Gourmand,Yellow)DS_A17p : 1-Centipede-{0.6}, 1-BigSpider-2-{Night}
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_A17p : 2 : Small Centipede-0.5, Centipede-{0.45}-0
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_B01p : 2 : Pink-0.5, Blue-0.3, White-0.3, Cyan-0.3, Red-0
+(White,Rivulet,Gourmand,Yellow)DS_C06p : 3-Pink, 3-Eel-2-{Night}, 3-BigSpider-2-{Night}
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_C06p : 5 : Green-0.4, Green-0.5, Green-0.6, Red-0
+(White,Rivulet,Gourmand,Yellow)DS_B09p : 3-Salamander-{Ignorecycle}, 3-Eel-2-{Night}, 3-SpitterSpider-2-{Night}
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_B06p : 3 : Pink-0.2, Blue-0.2, Cyan-0.4, Red-0
+(White,Rivulet,Gourmand,Yellow)DS_C01p : 4-DropBug, 4-SpitterSpider-2-{Night}, 4-MotherSpider-{Night}
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_B13p : 4 : Pink-0.3, Yellow-0.3, Cyan-0.3, Red-0
+(White,Rivulet,Gourmand,Yellow)DS_A11p : 2-DropBug, 2-SpitterSpider-2-{Night}, 2-BigSpider-{Night}
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_A01p : 3 : Centipede-{0.55}-0.3, Centipede-{0.70}-0.5, Centipede-{1.0}-0
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_A03p : 3 : Pink-0.3, Yellow-0.3, Cyan-0.4, Red-0
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_B16p : 3 : Blue-0.3, White-0.3, Cyan-0
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_A10p : 2 : Mimic-{15}-0.4, TentaclePlant-0
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_A10p : 1 : EggBug-0.8, DropBug-0
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_A12p : 2 : Pink-0.3, Salamander-0.4, White-0.4, ZoopLizard-0
+(White,Rivulet,Gourmand,Yellow)DS_B11p : 2-Snail-{Ignorecycle}, 2-Salamander-2-{Night}, 2-Eel-{Night}
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_EX2p : 3 : Centipede-{0.5}-0.5, Centipede-{0.75}-0.5, Centipede-{1.0}-0
+(White,Rivulet,Gourmand,Yellow)DS_EX3p : 4-Centipede-{0.6}-{Ignorecycle}, 4-RedCentipede-{Night}, 4-Cyan-{Night}
+(White,Rivulet,Gourmand,Yellow)DS_D02p : 6-Salamander-{Ignorecycle}, 6-Salamander-2-{Night}, 6-Eel-{Night}
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_A07 : 4 : Salamander-1.0, Eel-0.5, TentaclePlant-0
+(White,Rivulet,Gourmand,Yellow)DS_A17 : 4-Snail-{Ignorecycle}, 4-Eel-2-{Night}, 4-Cyan-{Night}, 4-Cyan-{Night}
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_C05p : 3 : Pink-0.2, Salamander-0.2, White-0.2, Red-0
+(White,Rivulet,Gourmand,Yellow)LINEAGE : DS_A14p : 2 : Snail-0.2, BigSpider-0
+(White,Rivulet,Gourmand,Yellow)DS_D01p : 4-Snail-{Ignorecycle}, 4-Eel-2-{Night}, 4-Cyan-{Night}, 4-Cyan-{Night}
+
+(X-Yellow)LINEAGE : DS_A06p : 2 : Pink-0.2, Salamander-0.2, White-0.3, Cyan-0
+(X-Yellow)DS_D02p : 7-Salamander-{Ignorecycle}
+
+(Red,Artificer,Spear,Gourmand)DS_A04p : 2-Red Centipede-{Ignorecycle}, 2-SpitterSpider-2-{Night}, 2-MotherSpider-{Night}
+(Red,Artificer,Spear)DS_B01p : 2-Cyan-{Ignorecycle}, 3-White-{Ignorecycle}, 2-SpitterSpider-2-{Night}, 3-MotherSpider-{Night}
+(Red,Artificer,Spear)DS_B02p : 4-Cyan-{Ignorecycle}, 5-Cyan-{Ignorecycle}, 4-SpitterSpider-2-{Night}, 5-MotherSpider-{Night}
+(Red,Artificer,Spear)DS_A17p : 1-Centipede-{0.65}, 2-Centipede-{0.70}
+(Red,Artificer,Spear)LINEAGE : DS_A17p : 3 : Small Centipede-0.8, Centipede-{0.5}-0
+(Red,Artificer,Spear)DS_C06p : 3-Cyan, 4-Green, 5-Red-{Ignorecycle}, 3-Eel-2-{Night}, 5-SpitterSpider-2-{Night}, 4-BigSpider-{Night}
+(Red,Artificer,Spear)DS_B09p : 2-Dropbug, 3-Bro-{Ignorecycle}, 2-SpitterSpider-2-{Night}, 2-BigSpider-{Night}
+(Red,Artificer,Spear)DS_B06p : 3-White-2-{Ignorecycle}, 3-Cyan-2-{Night}, 3-BigSpider-{Night}
+(Red,Artificer,Spear)DS_B14p : 3-White-{Ignorecycle}, 3-Cyan-2-{Night}, 3-BigSpider-{Night}
+(Red,Artificer,Spear)DS_B15p : 4-Cyan-{Ignorecycle}, 4-White-2-{Night}
+(Red,Artificer,Spear)DS_C01p : 3-White-{Ignorecycle}, 4-DropBug-2, 4-MotherSpider-2-{Night}, 4-BigSpider-{Night}
+(Red,Artificer,Spear)DS_B13p : 4-Yellow-{Ignorecycle}, 5-Yellow-2-{Ignorecycle}, 4-MotherSpider-2-{Night}, 4-BigSpider-{Night}
+(Red,Artificer,Spear)DS_C05p : 2-Cyan-2-{Ignorecycle}, 3-Red-{Ignorecycle}, 2-White-2-{Night}, 3-Cyan-2-{Night}
+(Red,Artificer,Spear)DS_A11p : 2-DropBug-2, 3-DropBug, 2-MotherSpider-2-{Night}, 3-BigSpider-{Night}
+(Red,Artificer,Spear)DS_D02p : 3-Yellow-2-{Ignorecycle}, 4-Yellow-2-{Ignorecycle}, 5-DropBug-2, 6-Centipede-{0.85}
+(Red,Artificer,Spear)LINEAGE : DS_A01p : 3 : Centipede-{1.0}-1.0, Centipede-{1.0}-0.5, Centipede-{1.0}-0.5, Red Centipede-0
+(Red,Artificer,Spear)DS_A03p : 3-Yellow-{Ignorecycle}, 4-Yellow-2-{Ignorecycle}
+(Red,Artificer,Spear)LINEAGE : DS_B16p : 3 : White-0.6, Cyan-0
+(Red,Artificer,Spear)DS_A10p : 2-TentaclePlant-{Ignorecycle}
+(Red,Artificer,Spear)DS_A12p : 2-Cyan-{Ignorecycle}
+(Red,Artificer,Spear)DS_B11p : 2-Cyan-{Ignorecycle}
+(Red,Artificer,Spear)DS_EX2p : 3-Centipede-{0.65}-2
+(Red,Artificer,Spear)DS_EX3p : 4-Centipede-{1.0}
+(Red,Artificer,Spear)DS_B12p : 3-Black-{Ignorecycle}, 4-Black-{Ignorecycle}, 5-Black-{Ignorecycle}
+(Red,Artificer,Spear)LINEAGE : DS_B12p : 2 : BigSpider-0.8, Black-0
+(Red,Artificer,Spear)DS_A07 : 4-TentaclePlant-{Ignorecycle}
+(Red,Artificer,Spear)DS_B03p : 4-Eel-{Ignorecycle}
+(Red,Artificer,Spear)DS_A17 : 4-Eel-{Ignorecycle}
+(Red,Artificer,Spear)DS_A14p : 2-MotherSpider-2-{Ignorecycle}
+(Red,Artificer,Spear)DS_D01p : 4-Cyan-{Ignorecycle}
+(Red,Artificer,Spear)DS_B17p : 2-Dropbug-2, 2-Cyan-2-{Night}, 2-White-{Night}
+(Red,Artificer,Spear)LINEAGE : DS_A24p : 3 : Blue-0.5, White-0.5, ZoopLizard-0
+(Red,Artificer,Spear)DS_D03p : 3-Snail-2-{Ignorecycle}
+(Red,Artificer,Spear)LINEAGE : DS_A10p : 1 : Pink-0.5, White-0.7, Cyan-0 
+
+
+
+END CREATURES
+[END MERGE

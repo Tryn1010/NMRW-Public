@@ -1,0 +1,9 @@
+[MERGE]
+
+RainIntensity: 0.3043478
+RumbleIntensity: 0
+Effects: Dawn-1-287-16, 
+DangerType: None
+PlacedObjects: DawnData><720.3826><273.5196><-233.0149~-99.36407~3,
+
+[ENDMERGE]

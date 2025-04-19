@@ -1,0 +1,10 @@
+[FINDLINE]Effects: 
+[REPLACE]Effects: Lightning-0-20-20, ElectricDeath-0-18-77, 
+
+[MERGE]
+
+RainIntensity: 0.3043478
+RumbleIntensity: 0
+DangerType: None
+
+[ENDMERGE]

@@ -1,0 +1,8 @@
+[MERGE]
+
+RainIntensity: 0
+RumbleIntensity: 0
+DangerType: None
+PlacedObjects: DayNightSettings><524.8519><320.9221><-38~-105.3398~33~10, 
+
+[ENDMERGE]

@@ -1,0 +1,11 @@
+[FINDLINE]Effects: 
+[REPLACE]Effects: DayNight-1-286-78, Lightning-0-20-20, ElectricDeath-0-18-77, Dawn-1-287-16, 
+
+[MERGE]
+
+RainIntensity: 0
+RumbleIntensity: 0
+DangerType: None
+PlacedObjects: DayNightSettings><524.8519><320.9221><-38~-105.3398~3~33, DawnData><720.3826><273.5196><-233.0149~-99.36407~3,
+
+[ENDMERGE]

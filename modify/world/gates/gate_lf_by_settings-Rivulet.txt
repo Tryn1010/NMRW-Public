@@ -1,0 +1,13 @@
+CeilingDrips: 0
+WaveSpeed: 0.4676048
+WaveLength: 0.9838024
+WaveAmplitude: 9.899466E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.1413043
+Palette: 14
+PlacedObjects: NoSpearStickZone><480.0441><227.3049><241~180, 
+AmbientSounds: SPOT><AM_ENV-WallHum.ogg><32.31641><449.1706><0.4021739><1><220.3164><392.1707><29.64465><-77.35535><0><0.2304349, SPOT><AM_IND-12thFloor.ogg><748.8192><358.0855><0.3586957><1><927.8192><249.0855><-120.3553><-29.35535><0><0.2195653, 
+FadePalette: 310, 0.3152174
+WetTerrain: OFF
+MorePalette0: 8, 0.2173913
